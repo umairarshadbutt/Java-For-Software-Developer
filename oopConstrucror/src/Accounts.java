@@ -5,6 +5,9 @@ public class Accounts {
     private String customerEmail;
     private String customerPhoneNumber;
 
+    Accounts(){
+        System.out.println("This is Defaulr constuctor");
+    }
     public  void deposit(double depositAmmount){
         this.balance+=depositAmmount;
         System.out.println("With " +depositAmmount +"ammount added. new balance is "+this.balance);
