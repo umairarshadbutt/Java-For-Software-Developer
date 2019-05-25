@@ -1,4 +1,27 @@
 public class Accounts {
+    private String number;
+    private double balance;
+    private String customername;
+    private String customerEmail;
+    private String customerPhoneNumber;
+
+    public  void deposit(double depositAmmount){
+        this.balance+=depositAmmount;
+        System.out.println("With " +depositAmmount +"ammount added. new balance is "+this.balance);
+
+    }
+
+    public void withdraw(double withdrwaAmmount){
+        if (this.balance -withdrwaAmmount <=0){
+            System.out.println("With" +this.balance + "You can't withdraw" +withdrwaAmmount+" ammount");
+        }
+        else {
+            this.balance -=withdrwaAmmount;
+            System.out.println("With " +withdrwaAmmount +" ammount. new balance is "+this.balance);
+        }
+    }
+
+
     public String getNumber() {
         return number;
     }
@@ -39,11 +62,7 @@ public class Accounts {
         this.customerPhoneNumber = customerPhoneNumber;
     }
 
-    private String number;
-    private double balance;
-    private String customername;
-    private String customerEmail;
-    private String customerPhoneNumber;
+
 
 
 
