@@ -6,8 +6,24 @@ public class Accounts {
     private String customerPhoneNumber;
 
     Accounts(){
-        System.out.println("This is Defaulr constuctor");
+        this("55684", 500," Default name", "defalut email", "default phone number");//this is optional, it should be very first line the code
+        System.out.println("This is Default constuctor");
     }
+
+    Accounts(String number, double balance, String customername, String customerEmail, String customerPhoneNumber){
+        System.out.println("This is Parameterized constuctor");
+        this.number=number;
+        this.balance=balance;
+        this.customername=customername;
+        this.customerEmail=customerEmail;
+        this.customerPhoneNumber=customerPhoneNumber;
+
+    }
+
+    Accounts(String customername, String customerEmail, String customerPhoneNumber) {//another constructor is generated
+        this("69696969", 10000, customername, customerEmail, customerPhoneNumber);
+    }
+
     public  void deposit(double depositAmmount){
         this.balance+=depositAmmount;
         System.out.println("With " +depositAmmount +"ammount added. new balance is "+this.balance);
