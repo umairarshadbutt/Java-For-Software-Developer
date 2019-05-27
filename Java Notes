@@ -1,0 +1,38 @@
+objects: real-world example, an instance of a particular class or subclass
+major characteristics: state and behavior
+class: blueprints for creating objects
+ 
+        if(validModel.equals("carrera") || validModel.equals("commodore")) {
+        } else {}
+->Parameterized constructor, no-argument constructor, default constructor
+->constructor values can be assigned by setter getter
+Accounts(String customername, String customerEmail, String customerPhoneNumber) {//another constructor is generated
+   this("69696969", 10000, customername, customerEmail, customerPhoneNumber);
+}  
+
+->pass object in method
+public void methodName (ClassName classObject){
+       //classObject.getReal(); get through object
+    }
+
+->Inheritance:a subclass inherits the characteristics (properties and methods) of its superclass
+
+->Alt+Insert to generate constructor, setter getter
+->extends //use for extending the class
+->@Override //it improves the reliability of code, through @Override we can instruct the complier if there is any mistake by programmer(such as wrong method name, wrong parameter types)
+->super
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
