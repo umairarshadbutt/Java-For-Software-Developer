@@ -18,9 +18,26 @@ public void methodName (ClassName classObject){
 ->Inheritance:a subclass inherits the characteristics (properties and methods) of its superclass
 
 ->Alt+Insert to generate constructor, setter getter
+
 ->extends //use for extending the class
-->@Override //it improves the reliability of code, through @Override we can instruct the complier if there is any mistake by programmer(such as wrong method name, wrong parameter types)
-->super
+
+->@Override //it improves the reliability of code, through @Override we can instruct the compiler if there is any mistake by programmer(such as wrong method name, wrong parameter types)
+
+->super is used to access/call the parent class member(variable and method)
+
+->this is used to call the current class members(variables and methods). This is required when we have parameter with the same name as an instance variable(field)
+->this() is a regular method call. this() is used to call current class constructor.It calls another overloaded constructor, helps reduce the duplicated code
+
+->Class can be defined as a template/blueprint that describes the behavior/state that the object of its type support.
+
+->Objects have states and behaviors. An object is an instance of a class. A dog has states - color, name, barking, eating
+
+->Abstract classes cannot be instantiated, while classes that can be instantiated are called concrete classes.
+
+->Instance variable in Java is used by Objects to store their states
+
+->
+
 
 
 
