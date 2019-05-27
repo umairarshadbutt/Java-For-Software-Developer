@@ -19,7 +19,9 @@ public class Animal {
         System.out.println("Animal.est() called");
     }
 
-    public void move(){}
+    public void move(int speed){
+        System.out.println("Animal.move() is called. Animal is moving at "+speed);
+    }
     public String getName() {
         return name;
     }
