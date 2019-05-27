@@ -2,12 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="458c5b64-b520-460e-afb8-619d268b2443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/OOPConstructorPoin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/out/production/OOPConstructorPoin/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/out/production/OOPConstructorPoin/com/company/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/src/Question" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPConstructorPoin/src/com/company/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstrucror/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/oopConstructor Wall Area.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/out/production/oopConstructor Wall Area/Question" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/out/production/oopConstructor Wall Area/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/out/production/oopConstructor Wall Area/com/company/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/src/Question" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor Wall Area/src/com/company/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/oopConstrucror.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/out/production/oopConstrucror/Accounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/out/production/oopConstrucror/META-INF/oopConstrucror.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/out/production/oopConstrucror/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/out/production/oopConstrucror/VipPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/src/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopConstructor/src/VipPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopConstructorCarpetCostCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oopConstructorCarpetCostCalculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oopConstructorCarpetCostCalculator/Carpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oopConstructorCarpetCostCalculator/Floor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oopConstructorCarpetCostCalculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oopConstructorCarpetCostCalculator/Question" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Floor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,65 +74,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Floor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding>
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Carpet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Question">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/Floor.java" />
         <option value="$PROJECT_DIR$/src/Carpet.java" />
         <option value="$PROJECT_DIR$/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -110,22 +110,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="oopConstructorCarpetCostCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oopConstructorCarpetCostCalculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oopConstructorCarpetCostCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oopConstructorCarpetCostCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -173,25 +158,25 @@
       <option name="presentableId" value="Default" />
       <updated>1558797254100</updated>
       <workItem from="1558797257962" duration="485000" />
-      <workItem from="1558935025013" duration="869000" />
+      <workItem from="1558935025013" duration="1289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1354000" />
+    <option name="totallyTimeSpent" value="1774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="375" width="1848" height="681" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25249723" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25249723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32971016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,7 +184,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32427537" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32427537" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,7 +209,7 @@
     <entry file="file://$PROJECT_DIR$/src/Floor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
             <element signature="e#385#386#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
@@ -256,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
