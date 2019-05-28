@@ -16,6 +16,19 @@ public class Printer {
         this.duplex = duplex;
     }
 
+    public int fillToner(int toner){
+        if (tonerLevel >0 && tonerLevel<100){
+            if ((this.tonerLevel + toner) >100){
+                return -1;
+            }
+            this.tonerLevel+=toner;
+            return this.tonerLevel;
+        }
+        else{
+            return 0;
+        }
+    }
+
     public int printPages(int pages){
         int pagesToPrint=pages;
         if (this.duplex){
@@ -25,6 +38,7 @@ public class Printer {
         return pagesToPrint;
     }
 
-
-
+    public int getPrintedPages() {
+        return printedPages;
+    }
 }
