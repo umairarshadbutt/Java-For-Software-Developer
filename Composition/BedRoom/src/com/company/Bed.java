@@ -13,6 +13,9 @@ public class Bed {
         this.color = color;
     }
 
+    public void bedMake(){
+        System.out.println("Bed -> make");
+    }
     public int getPillows() {
         return pillows;
     }
