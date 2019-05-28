@@ -9,8 +9,10 @@ public class Bedroom {
     private  Wall wall3;
     private  Wall wall4;
     private  Bed bed;
+    private String name;
 
-    public Bedroom(Lamp lamp, Chairs chairs, Ceiling ceiling, Wall wall1, Wall wall2, Wall wall3, Wall wall4, Bed bed) {
+    public Bedroom(String name, Lamp lamp, Chairs chairs, Ceiling ceiling, Wall wall1, Wall wall2, Wall wall3, Wall wall4, Bed bed) {
+        this.name= name;
         this.lamp = lamp;
         this.chairs = chairs;
         this.ceiling = ceiling;

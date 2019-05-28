@@ -11,6 +11,9 @@ public class Lamp {
         this.globalRating = globalRating;
     }
 
+    public Lamp(String tomb, int i, double v) {
+    }
+
     public void  trunOn(){
         System.out.println("Lamp -> Turn ON");
     }
