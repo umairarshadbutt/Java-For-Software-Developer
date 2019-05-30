@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f1ed5e-4a69-4e6d-9325-04956b54833f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MobilePhone.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Question">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state>
               <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
             </state>
           </provider>
@@ -28,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="129">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#258#259#0" expanded="true" />
@@ -42,23 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="31">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding>
-                <element signature="e#1489#1490#0" expanded="true" />
+                <element signature="e#1691#1692#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="45" />
+            <state relative-caret-position="163">
+              <caret line="120" column="49" lean-forward="true" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
               <folding>
                 <element signature="e#4624#4625#0" expanded="true" />
                 <element signature="e#4679#4680#0" expanded="true" />
@@ -83,7 +81,10 @@
       <find>printActions</find>
       <find>printContacts</find>
       <find>printContact</find>
+      <find>addNewContact</find>
+      <find>up</find>
       <find>getName</find>
+      <find>existing c</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,16 +95,16 @@
       <list>
         <option value="$PROJECT_DIR$/Question" />
         <option value="$PROJECT_DIR$/src/com/company/Contact.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="105" />
+    <option name="y" value="318" />
     <option name="width" value="1847" />
-    <option name="height" value="975" />
+    <option name="height" value="762" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -139,6 +140,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,15 +181,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559213522247</updated>
-      <workItem from="1559213523921" duration="3161000" />
+      <workItem from="1559213523921" duration="4288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3161000" />
+    <option name="totallyTimeSpent" value="4288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="105" width="1847" height="975" extended-state="0" />
+    <frame x="71" y="318" width="1847" height="762" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -198,11 +201,11 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32976446" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286052" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4219858" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1563981" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,25 +229,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Question">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state>
           <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="31">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
-            <element signature="e#4624#4625#0" expanded="true" />
-            <element signature="e#4679#4680#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="129">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="e#258#259#0" expanded="true" />
@@ -257,12 +259,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="163">
+          <caret line="120" column="49" lean-forward="true" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
           <folding>
-            <element signature="e#1489#1490#0" expanded="true" />
+            <element signature="e#4624#4625#0" expanded="true" />
+            <element signature="e#4679#4680#0" expanded="true" />
           </folding>
         </state>
       </provider>
