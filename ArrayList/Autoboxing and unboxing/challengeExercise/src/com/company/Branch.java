@@ -32,6 +32,9 @@ public class Branch {
         return false;
     }
 
+    public ArrayList<Customer> getCustomers() {
+        return customers;
+    }
 
     private Customer findCustomer(String customerName) {
         for (int i=0;i<this.customers.size();i++){
