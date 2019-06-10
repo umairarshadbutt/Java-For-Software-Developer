@@ -7,20 +7,13 @@ import java.util.ListIterator;
 public class Demo {
     public static void main(String[] args){
         LinkedList<String> placesToVisit =new LinkedList<String>();
-
-        placesToVisit.add("Lahore");
-        placesToVisit.add("Karachi");
-        placesToVisit.add("Sawat");
-        placesToVisit.add("Chitral");
-        placesToVisit.add("Muree");
-
+        addInorder(placesToVisit,"Lahore");
+        addInorder(placesToVisit,"Karachi");
+        addInorder(placesToVisit,"Sawat");
+        addInorder(placesToVisit,"Chitral");
+        addInorder(placesToVisit,"Muree");
         printList(placesToVisit);
 
-        placesToVisit.add(0,"Gujranwala");
-        printList(placesToVisit);
-
-        placesToVisit.remove(1);
-        printList(placesToVisit);
     }
     private static void printList(LinkedList<String> linkedList){
         Iterator<String> i=linkedList.iterator();
