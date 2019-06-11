@@ -1,7 +1,10 @@
 package com.company;
 
+import java.util.ArrayList;
+
 public class Main {
 
+    private static ArrayList<Album> albums= new ArrayList<>();
     public static void main(String[] args) {
         Album album= new Album("Mix", "Abida Parveen");
         album.addSong("Allah Hik hai", 8.50);
