@@ -8,10 +8,10 @@ public class Album {
     private String atist;
     private ArrayList<Song> songs;
 
-    public Album(String name, String atist, ArrayList<Song> songs) {
+    public Album(String name, String atist) {
         this.name = name;
         this.atist = atist;
-        this.songs = songs;
+        this.songs = new ArrayList<Song>();
     }
 
     public  boolean addSong(String title, double duration) {

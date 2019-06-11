@@ -3,6 +3,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Album album= new Album("Mix", "Abida Parveen");
+        album.addSong("Allah Hik hai", 8.50);
+        album.addSong("Main janu mera khuda jany", 6.50);
+        album.addSong("Dam mast Qalandar", 7.50);
+        album.addSong("Main Naraye Mastana", 8.60);
+        album.addSong("Dhondoo gy agr malkoon malkoon", 8.50);
+        album.addSong("Ghoom Charakhra", 8.20);
+
     }
 }
