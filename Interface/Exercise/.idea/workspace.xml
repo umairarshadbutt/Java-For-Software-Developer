@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b18802d-583b-4ac5-8805-be0fc562c521" name="Default Changelist" comment="" />
+    <list default="true" id="2b18802d-583b-4ac5-8805-be0fc562c521" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="208">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#523#531#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,36 +40,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/ISaveable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="49">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
               <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#858#859#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#Player#0;class#Player#0" />
+                <element signature="method#toString#0;class#Player#0" />
+                <element signature="method#write#0;class#Player#0" />
               </folding>
             </state>
           </provider>
@@ -85,15 +82,16 @@
       <list>
         <option value="$PROJECT_DIR$/Question" />
         <option value="$PROJECT_DIR$/src/com/company/ISaveable.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Player.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="427" />
+    <option name="x" value="73" />
+    <option name="y" value="112" />
     <option name="width" value="1847" />
-    <option name="height" value="653" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,6 +152,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -165,29 +168,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560327136837</updated>
-      <workItem from="1560327146805" duration="2151000" />
+      <workItem from="1560327146805" duration="6906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2151000" />
+    <option name="totallyTimeSpent" value="6906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="459" width="1847" height="621" extended-state="0" />
+    <frame x="73" y="112" width="1847" height="956" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2759578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.28658536" />
+      <window_info anchor="bottom" id="Messages" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" weight="0.19274808" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.036275696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -209,13 +213,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Question">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -225,34 +222,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ISaveable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="49">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
           <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#Player#0;class#Player#0" />
+            <element signature="method#toString#0;class#Player#0" />
+            <element signature="method#write#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#523#531#0" expanded="true" />
           </folding>
         </state>
       </provider>
