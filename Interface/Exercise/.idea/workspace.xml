@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b18802d-583b-4ac5-8805-be0fc562c521" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b18802d-583b-4ac5-8805-be0fc562c521" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="16" />
+            <state relative-caret-position="235">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="e#395#396#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
@@ -62,6 +60,8 @@
                 <element signature="e#858#859#0" expanded="true" />
                 <element signature="e#902#903#0" expanded="true" />
                 <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,9 +91,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="455" />
+    <option name="y" value="427" />
     <option name="width" value="1847" />
-    <option name="height" value="625" />
+    <option name="height" value="653" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,15 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560327136837</updated>
-      <workItem from="1560327146805" duration="1799000" />
+      <workItem from="1560327146805" duration="2151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1799000" />
+    <option name="totallyTimeSpent" value="2151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="455" width="1847" height="625" extended-state="0" />
+    <frame x="71" y="459" width="1847" height="621" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -183,7 +183,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2842742" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.28658536" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -232,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="235">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="e#395#396#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
@@ -251,6 +251,8 @@
             <element signature="e#858#859#0" expanded="true" />
             <element signature="e#902#903#0" expanded="true" />
             <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
           </folding>
         </state>
       </provider>

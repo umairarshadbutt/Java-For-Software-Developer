@@ -1,6 +1,7 @@
 package com.company;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Player implements ISaveable{
     private String name;
@@ -58,12 +59,13 @@ public class Player implements ISaveable{
     }
 
     @Override
-    public ArrayList<String> write() {
+    public List<String> write() {
+        List<String> values = new ArrayList<>();
         return null;
     }
 
     @Override
-    public void read(ArrayList<String> savedValues) {
+    public void read(List<String> savedValues) {
 
     }
 }
