@@ -29,6 +29,9 @@ public class MobilePhone implements ITelephone{
         if(isRinging){
             System.out.println("Answer the desk phone");
             isRinging = false;
+        } else {
+            System.out.println("Mobile phone is powered off or number is wrong");
+            isRinging= true;
         }
 
     }

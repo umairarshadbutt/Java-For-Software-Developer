@@ -8,5 +8,11 @@ public class Main {
 	umairPhone.powerOn();
 	umairPhone.callPhone(123456);
 	umairPhone.answer();
+
+
+	umairPhone= new MobilePhone(234567);
+	umairPhone.powerOn();
+	umairPhone.callPhone(234567);
+	umairPhone.answer();
     }
 }
