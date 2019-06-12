@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fa0b61-33be-43f9-b72b-c99a7895ef4d" name="Default Changelist" comment="" />
+    <list default="true" id="d7fa0b61-33be-43f9-b72b-c99a7895ef4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Interface/Exercise/.idea/encodings.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1098">
-              <caret line="43" column="11" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="11" />
+            <state relative-caret-position="260">
+              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
               <folding>
-                <element signature="e#1013#1019#0" expanded="true" />
+                <element signature="e#976#982#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Album.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="237">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="221">
               <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#246#247#0" expanded="true" />
@@ -99,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +125,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,12 +175,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14444000" />
+    <option name="totallyTimeSpent" value="14492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="27" width="1653" height="942" extended-state="0" />
+    <frame x="71" y="271" width="1847" height="809" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2800249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.283176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -193,7 +195,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3505535" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -218,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state relative-caret-position="237">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -228,7 +230,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="221">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#246#247#0" expanded="true" />
@@ -241,10 +243,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1098">
-          <caret line="43" column="11" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="11" />
+        <state relative-caret-position="260">
+          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
           <folding>
-            <element signature="e#1013#1019#0" expanded="true" />
+            <element signature="e#976#982#0" expanded="true" />
           </folding>
         </state>
       </provider>
