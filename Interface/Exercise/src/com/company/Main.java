@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-
         Player umair = new Player("Umair", 10, 15);
         System.out.println(umair.toString());
         saveObject(umair);
@@ -16,8 +15,15 @@ public class Main {
         System.out.println(umair);
         umair.setWeapon("Stormbringer");
         saveObject(umair);
-        loadObject(umair);
+        //loadObject(umair);
         System.out.println(umair);
+
+
+        ISaveable shami = new Monster("Shami", 12,14);
+
+        System.out.println("Strength =" + ((Monster) shami).getStrength());
+        //System.out.println(shami);
+        saveObject(shami);
 
     }
 
