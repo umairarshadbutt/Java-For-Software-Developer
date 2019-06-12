@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9035a8a1-a3dc-4bd1-9cec-5359fb6ee9e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Example/com/company/Gearbox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Example/com/company/Gearbox$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Example/com/company/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Example/com/company/Gearbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Example/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Example/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="76" lean-forward="true" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+            <state relative-caret-position="35">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -25,11 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Gearbox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+            <state relative-caret-position="175">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="e#439#440#0" expanded="true" />
                 <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#1457#1458#0" expanded="true" />
                 <element signature="e#1493#1494#0" expanded="true" />
                 <element signature="e#634#635#0" expanded="true" />
                 <element signature="e#673#674#0" expanded="true" />
@@ -50,6 +56,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>current</find>
+      <find>currentNumber</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560346657302</updated>
-      <workItem from="1560346661174" duration="4610000" />
+      <workItem from="1560346661174" duration="6467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4610000" />
+    <option name="totallyTimeSpent" value="6467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="455" width="1847" height="613" extended-state="0" />
@@ -166,12 +173,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3285124" />
+      <window_info anchor="bottom" id="Messages" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" weight="0.17170626" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285124" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29338843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,18 +198,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="76" lean-forward="true" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        <state relative-caret-position="35">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Gearbox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+        <state relative-caret-position="175">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <element signature="e#439#440#0" expanded="true" />
             <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
             <element signature="e#1493#1494#0" expanded="true" />
             <element signature="e#634#635#0" expanded="true" />
             <element signature="e#673#674#0" expanded="true" />
