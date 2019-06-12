@@ -21,8 +21,8 @@ public class Main {
 
         ISaveable shami = new Monster("Shami", 12,14);
 
-
-        System.out.println(shami);
+        System.out.println("Strength =" + ((Monster) shami).getStrength());
+        //System.out.println(shami);
         saveObject(shami);
 
     }
