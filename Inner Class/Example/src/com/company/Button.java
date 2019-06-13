@@ -2,7 +2,7 @@ package com.company;
 
 public class Button {
     private String title;
-    private  OnClickListener onClickListener;
+    private OnClickListener onClickListener;
 
     public Button(String title) {
         this.title = title;
