@@ -1,5 +1,4 @@
 package com.company;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -11,5 +10,8 @@ public class Main {
         parrot.breath();
         parrot.eat();
         parrot.fly();
+
+        Penguin penguin= new Penguin("Emperor");
+        penguin.fly();
     }
 }
