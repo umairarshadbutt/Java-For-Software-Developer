@@ -48,6 +48,29 @@ public class MyLinkList implements NodeList{
 
     @Override
     public boolean removeItem(ListItem item) {
+        if(item != null){
+            System.out.println("Deleting item "+ item.getValue());
+        }
+
+        ListItem currentItem = this.root;
+        while (currentItem != null){
+            int comparison = currentItem.compareTo(item);
+            if (comparison == 0){
+                if(currentItem == this.root){
+                    this.root = currentItem.next();
+                } else {
+                    currentItem.previous().setNext(currentItem.next());
+                    if(currentItem.next() != null){
+                        currentItem.next().setPrevious(currentItem.previous());
+                    }
+                }
+                return true;
+            } else if (comparison < 0){
+                currentItem = currentItem.next();
+            }else {
+                return false;
+            }
+        }
         return false;
     }
 
