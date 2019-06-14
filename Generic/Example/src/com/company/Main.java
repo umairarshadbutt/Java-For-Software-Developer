@@ -5,20 +5,16 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        ArrayList<Integer> items = new ArrayList<>();
-        items.add(1);
-        items.add(2);
-        items.add(3);
-        //items.add("Umair")
-        items.add(5);
-        items.add(6);
+        FootballPlayer tahir = new FootballPlayer("Tahir");
+        BaseballPlayer ahmad = new BaseballPlayer("Ahmad");
+        SoccerPlayer shami = new SoccerPlayer("Shami");
 
-        printDouble(items);
-    }
+        Team qalandars = new Team("Lahore Qalandars");
+        qalandars.addPlayer(tahir);
+        qalandars.addPlayer(shami);
+        qalandars.addPlayer(ahmad);
 
-    private static void printDouble(ArrayList<Integer> n){
-        for (Object i:n){
-            System.out.println((Integer) i*2);
-        }
+
+        System.out.println(qalandars.numPlayers());
     }
 }
