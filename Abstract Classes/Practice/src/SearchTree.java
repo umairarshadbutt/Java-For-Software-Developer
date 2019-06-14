@@ -22,6 +22,11 @@ public class SearchTree implements NodeList {
 
     @Override
     public void traverse(ListItem root) {
-
+        //recursive method
+        if(root != null){
+            traverse(root.previous());
+            System.out.println(root.getValue());
+            traverse(root.next());
+        }
     }
 }
