@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da0a502c-0648-4f60-9267-df4a5dd222ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Generic class/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    <list default="true" id="e30775f3-ebd0-439f-8352-974ba70e266d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generic/Generic class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Generic/Generic class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generic/Generic class/out/production/Generic class/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Generic/Generic class/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Generic/Generic class/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="36" />
-              <folding>
-                <element signature="e#316#324#0" expanded="true" />
-                <element signature="e#375#384#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -42,9 +39,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="73" />
-    <option name="y" value="201" />
+    <option name="y" value="432" />
     <option name="width" value="1847" />
-    <option name="height" value="650" />
+    <option name="height" value="644" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,22 +51,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Generic class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generic class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Generic class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generic class" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,7 +73,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Generic class" />
+      <module name="Example" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -110,35 +92,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da0a502c-0648-4f60-9267-df4a5dd222ca" name="Default Changelist" comment="" />
-      <created>1560769072180</created>
+      <changelist id="e30775f3-ebd0-439f-8352-974ba70e266d" name="Default Changelist" comment="" />
+      <created>1560780337345</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560769072180</updated>
-      <workItem from="1560769076024" duration="5328000" />
+      <updated>1560780337345</updated>
+      <workItem from="1560780341687" duration="1900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5328000" />
+    <option name="totallyTimeSpent" value="1900000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="201" width="1847" height="650" extended-state="0" />
+    <frame x="73" y="432" width="1847" height="644" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18434203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32821497" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.756238" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32815534" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33203885" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32821497" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -158,12 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="36" />
-          <folding>
-            <element signature="e#316#324#0" expanded="true" />
-            <element signature="e#375#384#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

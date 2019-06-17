@@ -13,6 +13,7 @@ public class Main {
         Stack <Integer> integerStack= new Stack<Integer>();
 
 
+        Stack raw=new Stack();
         testPush("DoubleStack", doubleStack_, doubleElements);
         testPop("DoubleStack",doubleStack_);
 
