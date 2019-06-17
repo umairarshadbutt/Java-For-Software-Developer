@@ -1,14 +1,8 @@
-
-
-
-
-
-
 package com.company;
 
 import java.util.ArrayList;
 
-public class Team<T extends Players> {
+public class Team<T extends Players> implements Comparable<Team<T>>{
     private String name;
     int played = 0;
     int won = 0;
@@ -67,26 +61,12 @@ public class Team<T extends Players> {
         return (won * 2) + tied;
     }
 
+
+    @Override
+    public int compareTo(Team<T> tTeam) {
+
+        return 0;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

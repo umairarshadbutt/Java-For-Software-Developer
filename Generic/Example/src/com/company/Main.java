@@ -33,6 +33,11 @@ public class Main {
         teamB.matchResult(teamA,8,9);
 
 
+        System.out.println("Ranking");
+        System.out.println(soccerPlayerTeam.getName()+": " +soccerPlayerTeam.ranking());
+        System.out.println(teamA.getName()+": "+ teamA.ranking());
+        System.out.println(teamB+ ": "+teamB.ranking());
+
 
     }
 }
