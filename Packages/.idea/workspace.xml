@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Packages:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d92d8d61-7aa1-489b-bd0d-cb019d220dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/MyWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Generic/Generic class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/Generic class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Generic/Generic class/out/production/Generic class/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Generic/Generic class/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generic/Generic class/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Packages.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,24 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/MyWindows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -55,15 +52,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/MyWindows.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="432" />
-    <option name="width" value="1847" />
-    <option name="height" value="644" />
+    <option name="x" value="121" />
+    <option name="y" value="83" />
+    <option name="width" value="1793" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,13 +91,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/Packages_jar/Packages.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,64 +142,767 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560785494806</updated>
-      <workItem from="1560785501295" duration="505000" />
+      <workItem from="1560785501295" duration="1427000" />
+      <workItem from="1560827196653" duration="1034000" />
+      <workItem from="1560837596416" duration="1846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505000" />
+    <option name="totallyTimeSpent" value="4307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="432" width="1847" height="644" extended-state="0" />
-    <editor active="true" />
+    <frame x="121" y="83" width="1793" height="997" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26330853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32815534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.03456221" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="uml://JAVA/java.awt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.awt</OriginalElement>
+          <nodes>
+            <node x="2332.4305555555557" y="164.0">java.awt.Color</node>
+            <node x="455.81419753086425" y="306.0">java.awt.Choice</node>
+            <node x="1096.8141975308642" y="82.0">java.awt.image</node>
+            <node x="1604.0" y="1434.0">java.awt.Cursor</node>
+            <node x="2071.6208333333334" y="711.0">java.awt.LayoutManager2</node>
+            <node x="1020.0" y="1203.0">java.awt.GraphicsEnvironment</node>
+            <node x="1402.5641975308642" y="82.0">java.awt.MediaEntry</node>
+            <node x="511.1208333333334" y="388.0">java.awt.Panel</node>
+            <node x="2099.9305555555557" y="306.0">java.awt.RadialGradientPaint</node>
+            <node x="869.5641975308638" y="552.0">java.awt.FileDialog</node>
+            <node x="1155.0" y="1434.0">java.awt.TrayIcon</node>
+            <node x="501.8708333333334" y="721.0">java.awt.SequencedEvent</node>
+            <node x="2037.3847222222223" y="164.0">java.awt.MultipleGradientPaint</node>
+            <node x="582.0" y="1357.0">java.awt.PrintGraphics</node>
+            <node x="2159.0" y="1434.0">java.awt.Event</node>
+            <node x="196.0" y="1357.0">java.awt.MenuShortcut</node>
+            <node x="2394.0" y="1357.0">java.awt.SystemTray</node>
+            <node x="881.564197530864" y="470.0">java.awt.Dialog</node>
+            <node x="220.0" y="803.0">java.awt.LightweightDispatcher</node>
+            <node x="2278.4880952380954" y="962.0">java.awt.IllegalComponentStateException</node>
+            <node x="522.0" y="1203.0">java.awt.GraphicsConfiguration</node>
+            <node x="308.12669753086425" y="470.0">java.awt.Frame</node>
+            <node x="706.8141975308642" y="388.0">java.awt.ScrollPane</node>
+            <node x="1032.5641975308642" y="164.0">java.awt.Component</node>
+            <node x="1424.5641975308642" y="306.0">java.awt.Canvas</node>
+            <node x="1543.5641975308642" y="306.0">java.awt.Scrollbar</node>
+            <node x="140.0" y="164.0">java.awt.MenuBar</node>
+            <node x="975.8141975308642" y="388.0">java.awt.TextArea</node>
+            <node x="2099.1891975308645" y="0.0">java.awt.Transparency</node>
+            <node x="0.0" y="164.0">java.awt.MenuItem</node>
+            <node x="0.0" y="803.0">java.awt.AWTEventMulticaster</node>
+            <node x="1740.0" y="1203.0">java.awt.datatransfer</node>
+            <node x="1928.4880952380952" y="1044.0">java.awt.BasicStroke</node>
+            <node x="1675.6347222222223" y="164.0">java.awt.Adjustable</node>
+            <node x="1393.8708333333336" y="629.0">java.awt.PaintContext</node>
+            <node x="2078.1208333333334" y="793.0">java.awt.GridBagLayout</node>
+            <node x="1526.9880952380952" y="962.0">java.awt.EventFilter</node>
+            <node x="681.0" y="1434.0">java.awt.AWTError</node>
+            <node x="763.4880952380953" y="1044.0">java.awt.Polygon</node>
+            <node x="2251.1208333333334" y="793.0">java.awt.CardLayout</node>
+            <node x="1115.8708333333336" y="793.0">java.awt.LinearGradientPaintContext</node>
+            <node x="1719.4880952380952" y="1044.0">java.awt.AlphaComposite</node>
+            <node x="2083.0" y="1280.0">java.awt.AWTKeyStroke</node>
+            <node x="1261.4880952380952" y="1044.0">java.awt.WaitDispatchSupport</node>
+            <node x="224.0" y="1280.0">java.awt.BufferCapabilities</node>
+            <node x="708.8141975308642" y="306.0">java.awt.Container</node>
+            <node x="1078.0" y="1280.0">java.awt.AWTPermission</node>
+            <node x="1265.0" y="1203.0">java.awt.EventDispatchThread</node>
+            <node x="1946.4880952380952" y="962.0">java.awt.Stroke</node>
+            <node x="873.0" y="1280.0">java.awt.CheckboxGroup</node>
+            <node x="2257.6208333333334" y="711.0">java.awt.FlowLayout</node>
+            <node x="444.25" y="629.0">java.awt.ActiveEvent</node>
+            <node x="316.1416666666667" y="885.0">java.awt.dnd</node>
+            <node x="610.4880952380953" y="1044.0">java.awt.geom</node>
+            <node x="848.8141975308642" y="388.0">java.awt.Window</node>
+            <node x="844.0" y="1434.0">java.awt.im</node>
+            <node x="228.93919753086425" y="82.0">java.awt.MenuContainer</node>
+            <node x="1890.9305555555557" y="306.0">java.awt.LinearGradientPaint</node>
+            <node x="265.0" y="1203.0">java.awt.ComponentOrientation</node>
+            <node x="1329.0" y="1357.0">java.awt.VKCollection</node>
+            <node x="97.0" y="1044.0">java.awt.KeyboardFocusManager</node>
+            <node x="1693.0" y="1357.0">java.awt.FontMetrics</node>
+            <node x="0.0" y="962.0">java.awt.KeyEventDispatcher</node>
+            <node x="0.0" y="1203.0">java.awt.GraphicsConfigTemplate</node>
+            <node x="1690.1208333333334" y="711.0">java.awt.ColorPaintContext</node>
+            <node x="2439.4305555555557" y="164.0">java.awt.GradientPaint</node>
+            <node x="1745.0" y="1434.0">java.awt.Queue</node>
+            <node x="343.0" y="1434.0">java.awt.MouseInfo</node>
+            <node x="209.0" y="962.0">java.awt.KeyEventPostProcessor</node>
+            <node x="852.8708333333335" y="793.0">java.awt.RadialGradientPaintContext</node>
+            <node x="361.57623456790134" y="164.0">java.awt.ItemSelectable</node>
+            <node x="749.0" y="1126.0">java.awt.Point</node>
+            <node x="1281.0" y="1280.0">java.awt.RenderingHints</node>
+            <node x="2046.0" y="1357.0">java.awt.PointerInfo</node>
+            <node x="390.0" y="1357.0">java.awt.JobAttributes</node>
+            <node x="1198.5641975308642" y="306.0">java.awt.Button</node>
+            <node x="2.3766975308642486" y="388.0">java.awt.PopupMenu</node>
+            <node x="942.9880952380952" y="1126.0">java.awt.DefaultFocusTraversalPolicy</node>
+            <node x="512.0" y="1434.0">java.awt.font</node>
+            <node x="1255.1208333333336" y="711.0">java.awt.GradientPaintContext</node>
+            <node x="1966.0" y="1203.0">java.awt.HeadlessException</node>
+            <node x="1913.1208333333334" y="793.0">java.awt.BorderLayout</node>
+            <node x="133.87669753086425" y="306.0">java.awt.CheckboxMenuItem</node>
+            <node x="621.0" y="962.0">java.awt.Shape</node>
+            <node x="968.9880952380952" y="962.0">java.awt.FocusTraversalPolicy</node>
+            <node x="1476.1208333333336" y="711.0">java.awt.TexturePaintContext</node>
+            <node x="1084.8141975308642" y="0.0">java.awt.Image</node>
+            <node x="1739.4880952380952" y="962.0">java.awt.Composite</node>
+            <node x="2294.0" y="1434.0">java.awt.Font</node>
+            <node x="24.87669753086425" y="306.0">java.awt.Menu</node>
+            <node x="1509.0" y="1203.0">java.awt.GridBagConstraints</node>
+            <node x="1885.0" y="1280.0">java.awt.AttributeValue</node>
+            <node x="771.0" y="1357.0">java.awt.MediaTracker</node>
+            <node x="605.0" y="1126.0">java.awt.Dimension</node>
+            <node x="914.4880952380952" y="1044.0">java.awt.ContainerOrderFocusTraversalPolicy</node>
+            <node x="1282.9880952380952" y="962.0">java.awt.SecondaryLoop</node>
+            <node x="1685.0" y="1280.0">java.awt.PageAttributes</node>
+            <node x="2162.6891975308645" y="82.0">java.awt.Paint</node>
+            <node x="348.8708333333334" y="721.0">java.awt.event</node>
+            <node x="661.0" y="1280.0">java.awt.GraphicsCallback</node>
+            <node x="2279.0" y="1280.0">java.awt.AWTException</node>
+            <node x="2113.9880952380954" y="962.0">java.awt.Graphics</node>
+            <node x="977.1208333333335" y="711.0">java.awt.MultipleGradientPaintContext</node>
+            <node x="173.0" y="1434.0">java.awt.peer</node>
+            <node x="1461.0" y="1434.0">java.awt.Toolkit</node>
+            <node x="1017.5641975308642" y="306.0">java.awt.TextComponent</node>
+            <node x="467.0" y="1126.0">java.awt.Rectangle</node>
+            <node x="1861.2845679012346" y="164.0">java.awt.TexturePaint</node>
+            <node x="2023.0" y="1434.0">java.awt.Insets</node>
+            <node x="1484.0" y="1280.0">java.awt.GraphicsDevice</node>
+            <node x="1338.8141975308642" y="164.0">java.awt.ImageMediaEntry</node>
+            <node x="449.0" y="803.0">java.awt.PeerFixer</node>
+            <node x="1107.8141975308642" y="388.0">java.awt.TextField</node>
+            <node x="0.0" y="1357.0">java.awt.FocusManager</node>
+            <node x="774.0" y="1203.0">java.awt.FontFormatException</node>
+            <node x="2407.6208333333334" y="711.0">java.awt.GridLayout</node>
+            <node x="597.25" y="629.0">java.awt.AWTEvent</node>
+            <node x="1886.0" y="1434.0">java.awt.Robot</node>
+            <node x="2104.4880952380954" y="1044.0">java.awt.Graphics2D</node>
+            <node x="1145.0" y="1357.0">java.awt.DisplayMode</node>
+            <node x="959.0" y="1357.0">java.awt.SplashScreen</node>
+            <node x="1674.9305555555557" y="306.0">java.awt.ScrollPaneAdjustable</node>
+            <node x="2243.6208333333334" y="629.0">java.awt.LayoutManager</node>
+            <node x="71.0" y="1126.0">java.awt.DefaultKeyboardFocusManager</node>
+            <node x="2307.9305555555557" y="306.0">java.awt.SystemColor</node>
+            <node x="1505.4880952380952" y="1044.0">java.awt.ModalEventFilter</node>
+            <node x="1512.0" y="1357.0">java.awt.EventQueue</node>
+            <node x="1308.0" y="1434.0">java.awt.Desktop</node>
+            <node x="571.8141975308642" y="306.0">java.awt.Checkbox</node>
+            <node x="1317.5641975308642" y="306.0">java.awt.Label</node>
+            <node x="360.81419753086425" y="306.0">java.awt.List</node>
+            <node x="2220.0" y="1357.0">java.awt.color</node>
+            <node x="686.8708333333334" y="721.0">java.awt.SentEvent</node>
+            <node x="0.0" y="1434.0">java.awt.print</node>
+            <node x="1000.0" y="1434.0">java.awt.PrintJob</node>
+            <node x="29.125" y="82.0">java.awt.MenuComponent</node>
+            <node x="2192.0" y="1203.0">java.awt.GridBagLayoutInfo</node>
+            <node x="0.0" y="1280.0">java.awt.CompositeContext</node>
+            <node x="444.0" y="1280.0">java.awt.ImageCapabilities</node>
+            <node x="1871.0" y="1357.0">java.awt.Conditional</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.awt.LightweightDispatcher" target="java.awt.event">
+              <point x="0.0" y="-16.0" />
+              <point x="324.5" y="783.0" />
+              <point x="398.7458333333334" y="783.0" />
+              <point x="-16.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image">
+              <point x="32.75" y="-16.0" />
+              <point x="-34.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Checkbox" target="java.awt.ItemSelectable">
+              <point x="-29.25" y="-16.0" />
+              <point x="601.0641975308642" y="246.0" />
+              <point x="493.70123456790134" y="246.0" />
+              <point x="56.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.ScrollPane" target="java.awt.Container">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Choice" target="java.awt.ItemSelectable">
+              <point x="-24.0" y="-16.0" />
+              <point x="479.81419753086425" y="246.0" />
+              <point x="455.95123456790134" y="246.0" />
+              <point x="18.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.Dialog" target="java.awt.Window">
+              <point x="2.2737367544323206E-13" y="-16.0" />
+              <point x="26.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.ImageMediaEntry" target="java.awt.MediaEntry">
+              <point x="42.75" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.LinearGradientPaintContext" target="java.awt.MultipleGradientPaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="1237.8708333333336" y="768.0" />
+              <point x="1170.6208333333334" y="768.0" />
+              <point x="64.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.GridBagLayout" target="java.awt.LayoutManager2">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.DefaultFocusTraversalPolicy" target="java.awt.ContainerOrderFocusTraversalPolicy">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.RadialGradientPaint" target="java.awt.MultipleGradientPaint">
+              <point x="0.0" y="-16.0" />
+              <point x="2193.9305555555557" y="286.0" />
+              <point x="2189.634722222222" y="286.0" />
+              <point x="50.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.DefaultKeyboardFocusManager" target="java.awt.KeyboardFocusManager">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Button" target="java.awt.Component">
+              <point x="0.0" y="-16.0" />
+              <point x="1248.0641975308642" y="286.0" />
+              <point x="1112.61975308642" y="286.0" />
+              <point x="14.555555555555657" y="16.0" />
+            </edge>
+            <edge source="java.awt.MenuItem" target="java.awt.MenuComponent">
+              <point x="0.0" y="-16.0" />
+              <point x="60.0" y="144.0" />
+              <point x="71.625" y="144.0" />
+              <point x="-42.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.Window">
+              <point x="23.25" y="-16.0" />
+              <point x="377.87669753086425" y="445.0" />
+              <point x="875.5641975308642" y="445.0" />
+              <point x="-26.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.SequencedEvent" target="java.awt.AWTEvent">
+              <point x="41.25" y="-16.0" />
+              <point x="625.6208333333334" y="701.0" />
+              <point x="658.25" y="701.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.MenuContainer">
+              <point x="-23.25" y="-16.0" />
+              <point x="331.37669753086425" y="144.0" />
+              <point x="327.06419753086425" y="144.0" />
+              <point x="19.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.PopupMenu" target="java.awt.Menu">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Scrollbar" target="java.awt.Adjustable">
+              <point x="27.75" y="-16.0" />
+              <point x="1626.8141975308642" y="286.0" />
+              <point x="1706.6347222222223" y="286.0" />
+              <point x="-31.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Scrollbar" target="java.awt.Component">
+              <point x="-27.75" y="-16.0" />
+              <point x="1571.3141975308642" y="256.0" />
+              <point x="1156.2864197530864" y="256.0" />
+              <point x="58.22222222222217" y="16.0" />
+            </edge>
+            <edge source="java.awt.SentEvent" target="java.awt.AWTEvent">
+              <point x="30.25" y="-16.0" />
+              <point x="777.6208333333334" y="681.0" />
+              <point x="698.9166666666666" y="681.0" />
+              <point x="40.66666666666663" y="16.0" />
+            </edge>
+            <edge source="java.awt.ImageMediaEntry" target="java.awt.image">
+              <point x="-42.75" y="-16.0" />
+              <point x="1381.5641975308642" y="144.0" />
+              <point x="1198.8141975308642" y="144.0" />
+              <point x="34.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.MultipleGradientPaintContext" target="java.awt.PaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="1106.1208333333334" y="681.0" />
+              <point x="1411.4958333333336" y="681.0" />
+              <point x="-52.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.geom" target="java.awt.Shape">
+              <point x="0.0" y="-16.0" />
+              <point x="676.9880952380953" y="1019.0" />
+              <point x="667.0" y="1019.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.image" target="java.awt.Image">
+              <point x="-34.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Checkbox" target="java.awt.Component">
+              <point x="29.25" y="-16.0" />
+              <point x="659.5641975308642" y="276.0" />
+              <point x="1068.9530864197532" y="276.0" />
+              <point x="-29.111111111111086" y="16.0" />
+            </edge>
+            <edge source="java.awt.GridLayout" target="java.awt.LayoutManager">
+              <point x="0.0" y="-16.0" />
+              <point x="2470.6208333333334" y="686.0" />
+              <point x="2375.2875" y="686.0" />
+              <point x="52.666666666666515" y="16.0" />
+            </edge>
+            <edge source="java.awt.AlphaComposite" target="java.awt.Composite">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.RadialGradientPaintContext" target="java.awt.MultipleGradientPaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="974.3708333333335" y="768.0" />
+              <point x="1041.6208333333334" y="768.0" />
+              <point x="-64.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.dnd" target="java.awt.AWTEventMulticaster">
+              <point x="-30.25" y="-16.0" />
+              <point x="346.3916666666667" y="860.0" />
+              <point x="100.0" y="860.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.LayoutManager2" target="java.awt.LayoutManager">
+              <point x="0.0" y="-16.0" />
+              <point x="2154.6208333333334" y="686.0" />
+              <point x="2269.954166666667" y="686.0" />
+              <point x="-52.666666666666515" y="16.0" />
+            </edge>
+            <edge source="java.awt.Graphics2D" target="java.awt.Graphics">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.WaitDispatchSupport" target="java.awt.SecondaryLoop">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Panel" target="java.awt.Container">
+              <point x="0.0" y="-16.0" />
+              <point x="555.1208333333334" y="363.0" />
+              <point x="728.480864197531" y="363.0" />
+              <point x="-39.33333333333326" y="16.0" />
+            </edge>
+            <edge source="java.awt.FileDialog" target="java.awt.Dialog">
+              <point x="2.2737367544323206E-13" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Paint" target="java.awt.Transparency">
+              <point x="0.0" y="-16.0" />
+              <point x="35.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.BasicStroke" target="java.awt.Stroke">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.SequencedEvent" target="java.awt.ActiveEvent">
+              <point x="-41.25" y="-16.0" />
+              <point x="543.1208333333334" y="691.0" />
+              <point x="510.75" y="691.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.GradientPaintContext" target="java.awt.PaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="1355.6208333333336" y="691.0" />
+              <point x="1446.7458333333336" y="691.0" />
+              <point x="-17.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.LinearGradientPaint" target="java.awt.MultipleGradientPaint">
+              <point x="0.0" y="-16.0" />
+              <point x="1985.4305555555557" y="286.0" />
+              <point x="2088.134722222222" y="286.0" />
+              <point x="-50.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.CardLayout" target="java.awt.LayoutManager2">
+              <point x="0.0" y="-16.0" />
+              <point x="2315.6208333333334" y="768.0" />
+              <point x="2209.954166666667" y="768.0" />
+              <point x="55.333333333333485" y="16.0" />
+            </edge>
+            <edge source="java.awt.event" target="java.awt.ActiveEvent">
+              <point x="-33.25" y="-16.0" />
+              <point x="382.1208333333334" y="691.0" />
+              <point x="466.41666666666663" y="691.0" />
+              <point x="-44.33333333333337" y="16.0" />
+            </edge>
+            <edge source="java.awt.dnd" target="java.awt.event">
+              <point x="30.25" y="-16.0" />
+              <point x="406.8916666666667" y="860.0" />
+              <point x="574.5" y="860.0" />
+              <point x="574.5" y="773.0" />
+              <point x="465.2458333333334" y="773.0" />
+              <point x="49.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.ScrollPaneAdjustable" target="java.awt.Adjustable">
+              <point x="0.0" y="-16.0" />
+              <point x="1772.9305555555557" y="286.0" />
+              <point x="1768.6347222222223" y="286.0" />
+              <point x="31.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.CheckboxMenuItem" target="java.awt.ItemSelectable">
+              <point x="46.75" y="-16.0" />
+              <point x="274.12669753086425" y="236.0" />
+              <point x="380.45123456790134" y="236.0" />
+              <point x="-56.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.AWTEventMulticaster" target="java.awt.event">
+              <point x="0.0" y="-16.0" />
+              <point x="100.0" y="773.0" />
+              <point x="365.4958333333334" y="773.0" />
+              <point x="-49.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.List" target="java.awt.ItemSelectable">
+              <point x="-18.75" y="-16.0" />
+              <point x="379.56419753086425" y="246.0" />
+              <point x="418.20123456790134" y="246.0" />
+              <point x="-18.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.TextArea" target="java.awt.TextComponent">
+              <point x="0.0" y="-16.0" />
+              <point x="1031.8141975308642" y="363.0" />
+              <point x="1057.8141975308642" y="363.0" />
+              <point x="-40.25" y="16.0" />
+            </edge>
+            <edge source="java.awt.Color" target="java.awt.Paint">
+              <point x="0.0" y="-16.0" />
+              <point x="2375.9305555555557" y="144.0" />
+              <point x="2216.4391975308645" y="144.0" />
+              <point x="10.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.TextField" target="java.awt.TextComponent">
+              <point x="0.0" y="-16.0" />
+              <point x="1164.3141975308642" y="363.0" />
+              <point x="1138.3141975308642" y="363.0" />
+              <point x="40.25" y="16.0" />
+            </edge>
+            <edge source="java.awt.CheckboxMenuItem" target="java.awt.MenuItem">
+              <point x="-46.75" y="-16.0" />
+              <point x="180.62669753086425" y="216.0" />
+              <point x="90.0" y="216.0" />
+              <point x="30.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.TextComponent" target="java.awt.Component">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Dimension" target="java.awt.geom">
+              <point x="0.0" y="-16.0" />
+              <point x="667.0" y="1101.0" />
+              <point x="676.9880952380953" y="1101.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Menu" target="java.awt.MenuContainer">
+              <point x="22.25" y="-16.0" />
+              <point x="91.62669753086425" y="226.0" />
+              <point x="292.125" y="226.0" />
+              <point x="292.125" y="144.0" />
+              <point x="287.81419753086425" y="144.0" />
+              <point x="-19.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.ContainerOrderFocusTraversalPolicy" target="java.awt.FocusTraversalPolicy">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.TexturePaint" target="java.awt.Paint">
+              <point x="0.0" y="-16.0" />
+              <point x="1930.7845679012346" y="134.0" />
+              <point x="2173.4391975308645" y="134.0" />
+              <point x="-32.25" y="16.0" />
+            </edge>
+            <edge source="java.awt.Canvas" target="java.awt.Component">
+              <point x="0.0" y="-16.0" />
+              <point x="1474.0641975308642" y="266.0" />
+              <point x="1141.730864197531" y="266.0" />
+              <point x="43.66666666666674" y="16.0" />
+            </edge>
+            <edge source="java.awt.KeyboardFocusManager" target="java.awt.KeyEventPostProcessor">
+              <point x="54.0" y="-16.0" />
+              <point x="259.0" y="1019.0" />
+              <point x="315.5" y="1019.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Rectangle" target="java.awt.Shape">
+              <point x="-29.5" y="-16.0" />
+              <point x="496.5" y="1019.0" />
+              <point x="636.3333333333334" y="1019.0" />
+              <point x="-30.66666666666663" y="16.0" />
+            </edge>
+            <edge source="java.awt.Window" target="java.awt.Container">
+              <point x="0.0" y="-16.0" />
+              <point x="902.3141975308642" y="363.0" />
+              <point x="807.1475308641975" y="363.0" />
+              <point x="39.33333333333326" y="16.0" />
+            </edge>
+            <edge source="java.awt.ModalEventFilter" target="java.awt.EventFilter">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Polygon" target="java.awt.Shape">
+              <point x="0.0" y="-16.0" />
+              <point x="816.4880952380953" y="1019.0" />
+              <point x="697.6666666666666" y="1019.0" />
+              <point x="30.66666666666663" y="16.0" />
+            </edge>
+            <edge source="java.awt.MultipleGradientPaint" target="java.awt.Paint">
+              <point x="0.0" y="-16.0" />
+              <point x="2138.884722222222" y="144.0" />
+              <point x="2194.9391975308645" y="144.0" />
+              <point x="-10.75" y="16.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="-32.75" y="-16.0" />
+              <point x="1065.3141975308642" y="144.0" />
+              <point x="366.31419753086425" y="144.0" />
+              <point x="58.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.List" target="java.awt.Component">
+              <point x="18.75" y="-16.0" />
+              <point x="417.06419753086425" y="256.0" />
+              <point x="1039.841975308642" y="256.0" />
+              <point x="-58.22222222222217" y="16.0" />
+            </edge>
+            <edge source="java.awt.Choice" target="java.awt.Component">
+              <point x="24.0" y="-16.0" />
+              <point x="527.8141975308642" y="266.0" />
+              <point x="1054.3975308641975" y="266.0" />
+              <point x="-43.66666666666674" y="16.0" />
+            </edge>
+            <edge source="java.awt.MenuBar" target="java.awt.MenuContainer">
+              <point x="28.249999999999886" y="-16.0" />
+              <point x="224.7499999999999" y="144.0" />
+              <point x="248.56419753086425" y="144.0" />
+              <point x="-58.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.TexturePaintContext" target="java.awt.PaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="1573.1208333333336" y="691.0" />
+              <point x="1481.9958333333336" y="691.0" />
+              <point x="17.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.SystemColor" target="java.awt.Color">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.Point" target="java.awt.geom">
+              <point x="0.0" y="-16.0" />
+              <point x="792.5" y="1101.0" />
+              <point x="721.3214285714287" y="1101.0" />
+              <point x="44.33333333333337" y="16.0" />
+            </edge>
+            <edge source="java.awt.Rectangle" target="java.awt.geom">
+              <point x="29.5" y="-16.0" />
+              <point x="555.5" y="1101.0" />
+              <point x="632.6547619047619" y="1101.0" />
+              <point x="-44.33333333333337" y="16.0" />
+            </edge>
+            <edge source="java.awt.FlowLayout" target="java.awt.LayoutManager">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.image" target="java.awt.Transparency">
+              <point x="34.0" y="-16.0" />
+              <point x="1198.8141975308642" y="57.0" />
+              <point x="2134.6891975308645" y="57.0" />
+              <point x="-35.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.GradientPaint" target="java.awt.Paint">
+              <point x="0.0" y="-16.0" />
+              <point x="2512.4305555555557" y="134.0" />
+              <point x="2237.9391975308645" y="134.0" />
+              <point x="32.25" y="16.0" />
+            </edge>
+            <edge source="java.awt.BorderLayout" target="java.awt.LayoutManager2">
+              <point x="0.0" y="-16.0" />
+              <point x="1985.6208333333334" y="768.0" />
+              <point x="2099.2875" y="768.0" />
+              <point x="-55.333333333333485" y="16.0" />
+            </edge>
+            <edge source="java.awt.KeyboardFocusManager" target="java.awt.KeyEventDispatcher">
+              <point x="-54.0" y="-16.0" />
+              <point x="151.0" y="1019.0" />
+              <point x="94.5" y="1019.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.awt.SentEvent" target="java.awt.ActiveEvent">
+              <point x="-30.25" y="-16.0" />
+              <point x="717.1208333333334" y="691.0" />
+              <point x="555.0833333333334" y="691.0" />
+              <point x="44.33333333333337" y="16.0" />
+            </edge>
+            <edge source="java.awt.Label" target="java.awt.Component">
+              <point x="0.0" y="-16.0" />
+              <point x="1361.0641975308642" y="276.0" />
+              <point x="1127.1753086419753" y="276.0" />
+              <point x="29.111111111111086" y="16.0" />
+            </edge>
+            <edge source="java.awt.event" target="java.awt.AWTEvent">
+              <point x="33.25" y="-16.0" />
+              <point x="448.6208333333334" y="701.0" />
+              <point x="617.5833333333333" y="701.0" />
+              <point x="-40.666666666666686" y="16.0" />
+            </edge>
+            <edge source="java.awt.PeerFixer" target="java.awt.event">
+              <point x="0.0" y="-16.0" />
+              <point x="506.5" y="783.0" />
+              <point x="431.9958333333334" y="783.0" />
+              <point x="16.625" y="16.0" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-16.0" />
+              <point x="767.8141975308642" y="286.0" />
+              <point x="1083.5086419753086" y="286.0" />
+              <point x="-14.555555555555657" y="16.0" />
+            </edge>
+            <edge source="java.awt.ColorPaintContext" target="java.awt.PaintContext">
+              <point x="0.0" y="-16.0" />
+              <point x="1779.1208333333334" y="681.0" />
+              <point x="1517.2458333333336" y="681.0" />
+              <point x="52.875" y="16.0" />
+            </edge>
+            <edge source="java.awt.MenuBar" target="java.awt.MenuComponent">
+              <point x="-28.250000000000114" y="-16.0" />
+              <point x="168.2499999999999" y="144.0" />
+              <point x="156.625" y="144.0" />
+              <point x="42.5" y="16.0" />
+            </edge>
+            <edge source="java.awt.Menu" target="java.awt.MenuItem">
+              <point x="-22.25" y="-16.0" />
+              <point x="47.12669753086425" y="286.0" />
+              <point x="30.0" y="286.0" />
+              <point x="-30.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.40915208613728127" x="1293.0" y="875.0" />
+          <SelectedNodes>
+            <node>java.awt.MenuComponent</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/MyWindows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Packages:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
