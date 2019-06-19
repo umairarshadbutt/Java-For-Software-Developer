@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Theartre theartre = new Theartre("Cinipex", 8, 15);
-        theartre.getSeats();
+        //theartre.getSeats();
 
         if(theartre.reserveSeat("H10")){
             System.out.println("Please pay");
