@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Theartre {
     private final String theatreName;
-    private List<Seat> seats = new ArrayList<>();
+    private Collection<Seat> seats = new HashSet<>();
 
     public Theartre(String theatreName, int numRows, int seatsPerRow) {
         this.theatreName = theatreName;
