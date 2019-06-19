@@ -21,16 +21,16 @@ public class ScopeCheck {
 
 
     public class InnerClass {
-        public int privateVar = 3;
+        private int var3 = 3;
 
         public InnerClass() {
-            System.out.println("InnerClass created, privateVar is " + privateVar);
+            System.out.println("InnerClass created, varOne is " + privateVar + " and varThree is " + var3);
         }
 
         public void timesTwo() {
-            ScopeCheck.this.timesTwo();
+            System.out.println("varOne is still available here " + privateVar);
             for (int i=0; i<10; i++) {
-                System.out.println(i + " times two is " + i * ScopeCheck.this.privateVar);
+                System.out.println(i + " times two is " + i * var3);
             }
         }
 
