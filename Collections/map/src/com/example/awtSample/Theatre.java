@@ -1,5 +1,4 @@
 package com.example.awtSample;
-
 import java.util.*;
 
 public class Theatre {
