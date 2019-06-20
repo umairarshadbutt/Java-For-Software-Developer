@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b1734e3-8429-4d60-8f82-eeaa148a0b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Maps/.idea/Maps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maps/src/com/example/awtSample/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/maps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Arrays/ArraysExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Arrays/ArraysExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections List Method/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections List Method/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maps/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maps/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maps/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps/src/com/example/awtSample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/maps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/maps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="-62">
+              <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,9 +82,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="491" />
+    <option name="y" value="519" />
     <option name="width" value="1847" />
-    <option name="height" value="545" />
+    <option name="height" value="517" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,15 +179,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561029883656</updated>
-      <workItem from="1561029887392" duration="2258000" />
+      <workItem from="1561029887392" duration="5014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2258000" />
+    <option name="totallyTimeSpent" value="5014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="491" width="1847" height="545" extended-state="0" />
+    <frame x="71" y="519" width="1847" height="517" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -208,12 +198,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.23774509" />
+      <window_info anchor="bottom" id="Messages" weight="0.32932693" />
+      <window_info anchor="bottom" id="Terminal" weight="0.92788464" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27644232" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.185567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,6 +221,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Theatre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
@@ -250,20 +250,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/maps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="-62">
+          <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
