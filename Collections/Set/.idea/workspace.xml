@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a430979f-431b-4ac3-b9b1-724f52215aae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/DogMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/SetMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,74 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/SetMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/HeavenlyBody.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="153">
+              <caret line="48" column="50" lean-forward="true" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Challenge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/DogMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Labrador.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,14 +52,21 @@
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/DogMain.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Labrador.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/SetMain.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="496" />
+    <option name="y" value="75" />
     <option name="width" value="1847" />
-    <option name="height" value="540" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DogMain">
+  <component name="RunManager" selected="Application.SetMain">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.awtSample.DogMain" />
       <module name="Set" />
@@ -197,12 +140,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.awtSample.SetMain" />
+      <module name="Set" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.awtSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DogMain" />
+      <item itemvalue="Application.SetMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetMain" />
         <item itemvalue="Application.DogMain" />
         <item itemvalue="Application.Main" />
       </list>
@@ -218,15 +176,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561100426091</updated>
-      <workItem from="1561100430016" duration="13451000" />
+      <workItem from="1561100430016" duration="17645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13451000" />
+    <option name="totallyTimeSpent" value="17645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="496" width="1847" height="540" extended-state="0" />
+    <frame x="71" y="75" width="1847" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -237,27 +195,31 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.0729927" />
+      <window_info anchor="bottom" id="Messages" weight="0.32932693" />
+      <window_info anchor="bottom" id="Terminal" weight="0.47931874" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1970803" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.6105769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.32981676" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24986118" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class">
@@ -267,10 +229,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Labrador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="110">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/DogMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -290,40 +283,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/SetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="48" column="50" lean-forward="true" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Challenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/DogMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Labrador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
