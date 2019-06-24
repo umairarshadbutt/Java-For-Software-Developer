@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a430979f-431b-4ac3-b9b1-724f52215aae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/DwarfPlanet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/HeavenlyBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a430979f-431b-4ac3-b9b1-724f52215aae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="115" column="47" selection-start-line="115" selection-start-column="47" selection-end-line="115" selection-end-column="47" />
+            <state relative-caret-position="105">
+              <caret line="108" column="95" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="95" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,8 +142,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="401" />
+    <option name="x" value="171" />
+    <option name="y" value="453" />
     <option name="width" value="1847" />
     <option name="height" value="561" />
   </component>
@@ -263,16 +256,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561100426091</updated>
       <workItem from="1561100430016" duration="20382000" />
-      <workItem from="1561190158611" duration="4754000" />
+      <workItem from="1561190158611" duration="5539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25136000" />
+    <option name="totallyTimeSpent" value="25921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="401" width="1847" height="561" extended-state="0" />
-    <editor active="true" />
+    <frame x="171" y="453" width="1847" height="561" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25263742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,14 +273,14 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2939815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2939815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5907336" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5902778" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32932693" />
@@ -422,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="115" column="47" selection-start-line="115" selection-start-column="47" selection-end-line="115" selection-end-column="47" />
+        <state relative-caret-position="105">
+          <caret line="108" column="95" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
