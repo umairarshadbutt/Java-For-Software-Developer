@@ -1,6 +1,7 @@
 package com.example.awtSample;
 
 import java.util.InputMismatchException;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Example {
@@ -10,10 +11,19 @@ public class Example {
     }
 
     private static int divide(){
-        int x=getInt();
-        int y = getInt();
+        int x,y;
+        try {
+                x=getInt();
+                y = getInt();
+        } catch (NoSuchElementException e){
+            throw new ArithmeticException("no suitable input");
+        }
         System.out.println("x is = "+ x+ ", y = "+ y +" 2");
-        return x/y;
+        try {
+            return x/y;
+        } catch (ArithmeticException e){
+            throw new ArithmeticException("Attempt to divide with Zero");
+        }
     }
 
     private static int getInt(){
