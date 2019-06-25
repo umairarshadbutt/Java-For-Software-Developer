@@ -5,7 +5,8 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
-    public static Locations locations=new Locations();
+    private static Locations locations = new Locations();
+
     public static void main(String[] args) {
         // Change the program to allow players to type full words, or phrases, then move to the
         // correct location based upon their input.
