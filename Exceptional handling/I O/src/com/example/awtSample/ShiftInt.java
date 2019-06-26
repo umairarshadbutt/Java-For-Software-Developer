@@ -34,5 +34,4 @@ public class ShiftInt {
         display(v >>> 8);
         display(v >>> 0);
     }
-
 }

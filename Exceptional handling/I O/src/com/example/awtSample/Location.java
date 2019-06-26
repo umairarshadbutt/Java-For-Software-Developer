@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Location implements Serializable {
+public class Location implements Serializable{
     private final int locationID;
     private final String description;
     private final Map<String, Integer> exits;
