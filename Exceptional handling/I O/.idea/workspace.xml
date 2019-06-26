@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd5768a-d172-4130-8ec0-b8a070baa882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/IndexRecord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Location.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Locations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/I O/com/example/awtSample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Locations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +21,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#877#893#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locations_rand.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="159" selection-start-line="12" selection-start-column="159" selection-end-line="12" selection-end-column="159" />
             </state>
           </provider>
         </entry>
@@ -36,31 +42,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Locations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1499">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="181">
+              <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#201#220#0" expanded="true" />
-                <element signature="e#2070#2071#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
-                <element signature="e#2155#2156#0" expanded="true" />
-                <element signature="e#2197#2198#0" expanded="true" />
-                <element signature="e#2257#2258#0" expanded="true" />
-                <element signature="e#2306#2307#0" expanded="true" />
-                <element signature="e#2370#2371#0" expanded="true" />
-                <element signature="e#2423#2424#0" expanded="true" />
-                <element signature="e#2476#2477#0" expanded="true" />
-                <element signature="e#2517#2518#0" expanded="true" />
-                <element signature="e#2587#2588#0" expanded="true" />
-                <element signature="e#2635#2636#0" expanded="true" />
-                <element signature="e#2691#2692#0" expanded="true" />
-                <element signature="e#2735#2736#0" expanded="true" />
-                <element signature="e#2953#2954#0" expanded="true" />
-                <element signature="e#2994#2995#0" expanded="true" />
-                <element signature="e#3052#3053#0" expanded="true" />
-                <element signature="e#3093#3094#0" expanded="true" />
-                <element signature="e#3162#3163#0" expanded="true" />
-                <element signature="e#3205#3206#0" expanded="true" />
+                <element signature="e#4416#4417#0" expanded="true" />
+                <element signature="e#4504#4505#0" expanded="true" />
+                <element signature="e#4613#4614#0" expanded="true" />
+                <element signature="e#4730#4731#0" expanded="true" />
+                <element signature="e#4824#4825#0" expanded="true" />
+                <element signature="e#4942#4943#0" expanded="true" />
+                <element signature="e#5042#5043#0" expanded="true" />
+                <element signature="e#5301#5302#0" expanded="true" />
+                <element signature="e#5400#5401#0" expanded="true" />
+                <element signature="e#5512#5513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/IndexRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
+            <state relative-caret-position="224">
               <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,15 +98,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locations.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="56" lean-forward="true" selection-end-line="141" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locations.dat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -108,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -163,18 +165,19 @@
         <option value="$PROJECT_DIR$/locations_big.txt" />
         <option value="$PROJECT_DIR$/directions_big.txt" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java" />
-        <option value="$PROJECT_DIR$/src/com/example/awtSample/Locations.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Location.java" />
-        <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
         <option value="$PROJECT_DIR$/locations.dat" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/IndexRecord.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/Locations.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="452" />
+    <option name="x" value="71" />
+    <option name="y" value="546" />
     <option name="width" value="1845" />
-    <option name="height" value="601" />
+    <option name="height" value="507" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,8 +211,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Locations">
     <configuration name="Locations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.awtSample.Locations" />
       <module name="I O" />
@@ -267,8 +270,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Locations" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShiftInt" />
       </list>
     </recent_temporary>
@@ -286,39 +289,40 @@
       <workItem from="1561391241664" duration="2364000" />
       <workItem from="1561439390298" duration="2365000" />
       <workItem from="1561443724856" duration="21642000" />
-      <workItem from="1561529087123" duration="9237000" />
+      <workItem from="1561529087123" duration="10540000" />
+      <workItem from="1561542561248" duration="7076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35608000" />
+    <option name="totallyTimeSpent" value="43987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="604" width="1845" height="449" extended-state="0" />
+    <frame x="71" y="546" width="1845" height="507" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21734297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21956642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.19825707" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09375" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1957672" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.58" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.06355932" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3287037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.2495831" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
@@ -327,7 +331,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/locations.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locations.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="165" selection-start-line="4" selection-start-column="165" selection-end-line="4" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/locations_big.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
@@ -345,16 +374,22 @@
     <entry file="file://$PROJECT_DIR$/directions.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/ShiftInt.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/IndexRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="224">
           <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -370,58 +405,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locations.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="56" lean-forward="true" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#893#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locations.dat">
+    <entry file="file://$PROJECT_DIR$/locations_rand.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="165" selection-start-line="4" selection-start-column="165" selection-end-line="4" selection-end-column="165" />
+        <state relative-caret-position="204">
+          <caret line="12" column="159" selection-start-line="12" selection-start-column="159" selection-end-line="12" selection-end-column="159" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Locations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1499">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="181">
+          <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#201#220#0" expanded="true" />
-            <element signature="e#2070#2071#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
-            <element signature="e#2155#2156#0" expanded="true" />
-            <element signature="e#2197#2198#0" expanded="true" />
-            <element signature="e#2257#2258#0" expanded="true" />
-            <element signature="e#2306#2307#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
-            <element signature="e#2423#2424#0" expanded="true" />
-            <element signature="e#2476#2477#0" expanded="true" />
-            <element signature="e#2517#2518#0" expanded="true" />
-            <element signature="e#2587#2588#0" expanded="true" />
-            <element signature="e#2635#2636#0" expanded="true" />
-            <element signature="e#2691#2692#0" expanded="true" />
-            <element signature="e#2735#2736#0" expanded="true" />
-            <element signature="e#2953#2954#0" expanded="true" />
-            <element signature="e#2994#2995#0" expanded="true" />
-            <element signature="e#3052#3053#0" expanded="true" />
-            <element signature="e#3093#3094#0" expanded="true" />
-            <element signature="e#3162#3163#0" expanded="true" />
-            <element signature="e#3205#3206#0" expanded="true" />
+            <element signature="e#4416#4417#0" expanded="true" />
+            <element signature="e#4504#4505#0" expanded="true" />
+            <element signature="e#4613#4614#0" expanded="true" />
+            <element signature="e#4730#4731#0" expanded="true" />
+            <element signature="e#4824#4825#0" expanded="true" />
+            <element signature="e#4942#4943#0" expanded="true" />
+            <element signature="e#5042#5043#0" expanded="true" />
+            <element signature="e#5301#5302#0" expanded="true" />
+            <element signature="e#5400#5401#0" expanded="true" />
+            <element signature="e#5512#5513#0" expanded="true" />
           </folding>
         </state>
       </provider>
