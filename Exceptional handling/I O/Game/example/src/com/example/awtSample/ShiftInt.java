@@ -1,7 +1,9 @@
 package com.example.awtSample;
 
+/**
+ * Created by timbuchalka on 19/05/2016.
+ */
 public class ShiftInt {
-
     private static final String ANSI_RESET = "\u001B[0m";
     private static final String ANSI_BLACK = "\u001B[30m";
     private static final String ANSI_RED = "\u001B[31m";

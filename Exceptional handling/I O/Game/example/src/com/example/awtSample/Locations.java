@@ -3,6 +3,9 @@ package com.example.awtSample;
 import java.io.*;
 import java.util.*;
 
+/**
+ * Created by timbuchalka on 2/04/2016.
+ */
 public class Locations implements Map<Integer, Location> {
     private static Map<Integer, Location> locations = new LinkedHashMap<Integer, Location>();
     private static Map<Integer, IndexRecord> index = new LinkedHashMap<>();

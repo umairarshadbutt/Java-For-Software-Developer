@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     private static Locations locations = new Locations();
+
     public static void main(String[] args) throws IOException {
         // Change the program to allow players to type full words, or phrases, then move to the
         // correct location based upon their input.
@@ -26,7 +27,7 @@ public class Main {
         vocabulary.put("EAST", "E");
 
 
-        Location currentLocation = locations.getLocation(64);
+        Location currentLocation = locations.getLocation(1);
         while(true) {
             System.out.println(currentLocation.getDescription());
 
