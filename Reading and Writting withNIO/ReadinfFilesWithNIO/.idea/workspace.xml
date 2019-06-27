@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7f58597-6c3f-429f-94d8-65e5215dfc11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/data.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ReadinfFilesWithNIO/com/example/awtSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadinfFilesWithNIO/com/example/awtSample/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
     </list>
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="301">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +29,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data.dat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,15 +40,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/data.dat" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="75" />
-    <option name="y" value="549" />
+    <option name="y" value="392" />
     <option name="width" value="1845" />
-    <option name="height" value="527" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,15 +119,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561621744917</updated>
-      <workItem from="1561621748701" duration="7398000" />
+      <workItem from="1561621748701" duration="11712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7398000" />
+    <option name="totallyTimeSpent" value="11712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="549" width="1845" height="527" extended-state="0" />
+    <frame x="75" y="392" width="1845" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -142,12 +138,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3268817" />
+      <window_info anchor="bottom" id="Messages" weight="0.32914573" />
+      <window_info anchor="bottom" id="Terminal" weight="0.31407034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38442212" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2504472" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -166,16 +162,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="301">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
