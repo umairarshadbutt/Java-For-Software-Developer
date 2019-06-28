@@ -9,8 +9,16 @@ public class Main {
     public static void main(String[] args) {
         try {
 
-            Path fileToDelete = FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
-            Files.deleteIfExists(fileToDelete);
+
+
+//create a file
+            Path fileToCreate = FileSystems.getDefault().getPath("Examples", "file2.txt");
+            Files.createFile(fileToCreate);
+
+
+//            delete a file
+//            Path fileToDelete = FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
+//            Files.deleteIfExists(fileToDelete);
 
 
 //            Moving a file
