@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1f70d44-192c-4159-a1df-b73864f0bb7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="107">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,15 +33,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Examples/file1copy.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir1/file1.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir1/file1Copy1.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir1/file2.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir2/file1.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir2/file2.txt" />
+        <option value="$PROJECT_DIR$/Examples/file1.txt" />
+        <option value="$PROJECT_DIR$/Examples/Dir2/Dir3/file3.txt" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="75" />
-    <option name="y" value="510" />
+    <option name="y" value="444" />
     <option name="width" value="1845" />
-    <option name="height" value="522" />
+    <option name="height" value="588" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -60,7 +69,59 @@
             <path>
               <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="awtSample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -73,6 +134,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Examples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Examples/Dir1" />
+      <recent name="$PROJECT_DIR$/Examples" />
+      <recent name="$PROJECT_DIR$/Examples/Dir2/Dir3" />
+      <recent name="$PROJECT_DIR$/Examples/Dir2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,52 +185,132 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561644680911</updated>
-      <workItem from="1561644683619" duration="2368000" />
+      <workItem from="1561644683619" duration="7334000" />
+      <workItem from="1561700504841" duration="6471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2368000" />
+    <option name="totallyTimeSpent" value="13805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="510" width="1845" height="522" extended-state="0" />
-    <editor active="true" />
+    <frame x="75" y="444" width="1845" height="588" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25236243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32824427" />
-      <window_info anchor="bottom" id="Terminal" weight="0.5318066" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24173027" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39215687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27668846" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32824427" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Examples/file1Copy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/file1copy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir2/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir2/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/file2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir2/Dir3/file3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="84" selection-start-line="2" selection-start-column="84" selection-end-line="2" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir1/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir1/file1Copy1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Dir1/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="196" selection-start-column="196" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="107">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
