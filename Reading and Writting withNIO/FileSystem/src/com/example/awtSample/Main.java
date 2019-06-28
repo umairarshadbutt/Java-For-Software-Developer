@@ -9,10 +9,14 @@ public class Main {
     public static void main(String[] args) {
         try {
 
+            Path fileToDelete = FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
+            Files.deleteIfExists(fileToDelete);
 
-            Path fileToMove = FileSystems.getDefault().getPath("Examples", "file1copy.txt");
-            Path destination =FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
-            Files.move(fileToMove,destination);
+
+//            Moving a file
+//            Path fileToMove = FileSystems.getDefault().getPath("Examples", "file1copy.txt");
+//            Path destination =FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
+//            Files.move(fileToMove,destination);
 
 //            Copy File and Directory
 //            Path sourceFile = FileSystems.getDefault().getPath("Examples", "file1.txt");
