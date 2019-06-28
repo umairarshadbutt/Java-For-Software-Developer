@@ -12,6 +12,9 @@ public class Main {
             Path copyFile = FileSystems.getDefault().getPath("Examples", "file1Copy.txt");
             Files.copy(sourceFile, copyFile, StandardCopyOption.REPLACE_EXISTING);
 
+            sourceFile = FileSystems.getDefault().getPath("Examples", "Dir1");
+            copyFile = FileSystems.getDefault().getPath("Examples", "Dir4");
+            Files.copy(sourceFile, copyFile, StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e){
             e.printStackTrace();
         }
