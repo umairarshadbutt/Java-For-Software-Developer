@@ -9,6 +9,7 @@ public class Main {
         System.out.println(ANSI_PURPLE+ "Hello from the main thread ");
 
         Thread anotherThread = new AnotherThread();
+        anotherThread.setName("== Another Thread ==");
         anotherThread.start();
 
         new Thread(){
@@ -16,6 +17,14 @@ public class Main {
                 System.out.println(ANSI_GREEN+ "Hello from the anonymous class thread");
             }
         }.start();
+
+        Thread myRunnaleThread = new Thread(new MyRunnable() {
+            @Override
+            public void run() {
+                super.run();
+            }
+        });
+        myRunnaleThread.start();
 
         System.out.println("Hello again from the main thread ");
     }
