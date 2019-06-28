@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6ca61a1-4ac8-45fa-baa3-163a22b1497a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir1/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir1/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir1/file1Copy1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir1/file1Copy1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir1/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir1/file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir2/Dir3/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir2/Dir3/file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir2/Dir3/file3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir2/Dir3/file3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir2/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir2/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Dir2/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/Dir2/file2.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinalTree/file2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ReadExisting Directory Content/com/example/awtSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadExisting Directory Content/com/example/awtSample/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+            <state relative-caret-position="129">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,9 +45,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="75" />
-    <option name="y" value="441" />
+    <option name="y" value="558" />
     <option name="width" value="1845" />
-    <option name="height" value="591" />
+    <option name="height" value="474" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,19 +67,7 @@
             <path>
               <item name="ReadExisting Directory Content" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReadExisting Directory Content" type="462c0819:PsiDirectoryNode" />
-              <item name="FinalTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadExisting Directory Content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadExisting Directory Content" type="462c0819:PsiDirectoryNode" />
-              <item name="FinalTree" type="462c0819:PsiDirectoryNode" />
-              <item name="Dir1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadExisting Directory Content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadExisting Directory Content" type="462c0819:PsiDirectoryNode" />
-              <item name="FinalTree" type="462c0819:PsiDirectoryNode" />
-              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReadExisting Directory Content" type="b2602c69:ProjectViewProjectNode" />
@@ -154,15 +131,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561707043235</updated>
-      <workItem from="1561707048784" duration="2657000" />
+      <workItem from="1561707048784" duration="4665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2657000" />
+    <option name="totallyTimeSpent" value="4665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="441" width="1845" height="591" extended-state="0" />
+    <frame x="75" y="558" width="1845" height="474" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -174,11 +151,11 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" weight="0.43768117" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32683983" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.08695652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+        <state relative-caret-position="129">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
