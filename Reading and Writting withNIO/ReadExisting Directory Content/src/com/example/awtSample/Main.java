@@ -35,21 +35,30 @@ public class Main {
 
         try {
             Path tempFile = Files.createTempFile("myApp", ".appext");
-            System.out.println("Temporary file path = "+ tempFile);
-        } catch (IOException e){
+            System.out.println("Temporary file path = " + tempFile);
+        } catch (IOException e) {
             System.out.println(e.getMessage());
         }
 
-        Iterable<FileStore> stores= FileSystems.getDefault().getFileStores();
-        for (FileStore store : stores){
-            System.out.println("Volume name/Drive letter "+stores);
-            System.out.println("File store "+store.name());
+        Iterable<FileStore> stores = FileSystems.getDefault().getFileStores();
+        for (FileStore store : stores) {
+            System.out.println("Volume name/Drive letter " + stores);
+            System.out.println("File store " + store.name());
         }
 
         System.out.println("**********************");
         Iterable<Path> rootPaths = FileSystems.getDefault().getRootDirectories();
-        for(Path path: rootPaths){
+        for (Path path : rootPaths) {
             System.out.println(path);
+        }
+
+
+        System.out.println("-----Walking Tree for Dir2-----");
+        Path dir2Path = FileSystems.getDefault().getPath("FileTree"+ File.separator+ "Dir2");
+        try {
+            Files.walkFileTree(dir2Path, new PrintNames());
+        }catch (IOException e){
+            System.out.println(e.getMessage());
         }
     }
 }
