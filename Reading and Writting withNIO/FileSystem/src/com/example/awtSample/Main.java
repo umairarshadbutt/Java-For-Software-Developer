@@ -10,11 +10,14 @@ public class Main {
         try {
 
 
+//create a director
+            Path dirToCreate = FileSystems.getDefault().getPath("Examples", "Dir4");
+            Files.createDirectory(dirToCreate);
+
 
 //create a file
-            Path fileToCreate = FileSystems.getDefault().getPath("Examples", "file2.txt");
-            Files.createFile(fileToCreate);
-
+//            Path fileToCreate = FileSystems.getDefault().getPath("Examples", "file2.txt");
+//            Files.createFile(fileToCreate);
 
 //            delete a file
 //            Path fileToDelete = FileSystems.getDefault().getPath("Examples", "Dir1", "file1copy.txt");
