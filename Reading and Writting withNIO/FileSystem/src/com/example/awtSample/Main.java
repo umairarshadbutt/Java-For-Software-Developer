@@ -3,6 +3,7 @@ package com.example.awtSample;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.*;
+import java.nio.file.attribute.BasicFileAttributes;
 
 public class Main {
 
@@ -10,13 +11,26 @@ public class Main {
         try {
 
 
+            //File Attributes
+            Path filePath =FileSystems.getDefault().getPath("Examples","Dir1/file1.txt");
+            long size=Files.size(filePath);
+            System.out.println("Size = "+size);
+            System.out.println("Last Modified ="+ Files.getLastModifiedTime(filePath));
+
+            BasicFileAttributes attributes = Files.readAttributes(filePath, BasicFileAttributes.class);
+            System.out.println("Size = "+attributes.size());
+            System.out.println("Last Modified = "+ attributes.lastModifiedTime());
+            System.out.println("Created = "+ attributes.creationTime());
+            System.out.println("Is Directory = "+attributes.isDirectory());
+            System.out.println("Is regular file = "+ attributes.isRegularFile());
+
 //create a director
 //            Path dirToCreate = FileSystems.getDefault().getPath("Examples", "Dir4");
 //            Files.createDirectory(dirToCreate);
 
             //create directories
-            Path dirToCreate = FileSystems.getDefault().getPath("Examples", "Dir2/Dir3/Dir4/Dir5/Dir6");
-            Files.createDirectories(dirToCreate);
+//            Path dirToCreate = FileSystems.getDefault().getPath("Examples", "Dir2/Dir3/Dir4/Dir5/Dir6");
+//            Files.createDirectories(dirToCreate);
 
 
 //create a file
