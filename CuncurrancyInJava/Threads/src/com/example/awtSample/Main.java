@@ -1,7 +1,6 @@
 package com.example.awtSample;
 
-import static com.example.awtSample.ThreadColor.ANSI_GREEN;
-import static com.example.awtSample.ThreadColor.ANSI_PURPLE;
+import static com.example.awtSample.ThreadColor.*;
 
 public class Main {
 
@@ -21,7 +20,13 @@ public class Main {
         Thread myRunnaleThread = new Thread(new MyRunnable() {
             @Override
             public void run() {
-                super.run();
+                System.out.println(ANSI_RED + "Hello from the anonymous class's implementation of run()");
+                try {
+                    anotherThread.join();
+                    System.out.println(ANSI_RED + "AnotherThread terminated, or timed out, so I'm running again");
+                } catch(InterruptedException e) {
+                    System.out.println(ANSI_RED + "I couldn't wait after all. I was interrupted");
+                }
             }
         });
         myRunnaleThread.start();
