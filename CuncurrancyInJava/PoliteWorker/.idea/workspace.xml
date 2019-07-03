@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e5bf3ce-884f-4fd4-a606-08aef4b3112c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Starvation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Starvation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Starvation/out/production/Starvation/com/example/awtSample/Main$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Starvation/out/production/Starvation/com/example/awtSample/Main$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Starvation/out/production/Starvation/com/example/awtSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Starvation/out/production/Starvation/com/example/awtSample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Starvation/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Starvation/src/com/example/awtSample/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e5bf3ce-884f-4fd4-a606-08aef4b3112c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +23,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/SharedResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
+                <element signature="e#129#130#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
@@ -46,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Worker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="e#248#249#0" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
@@ -160,12 +153,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562057541092</updated>
       <workItem from="1562057543675" duration="3256000" />
-      <workItem from="1562136315644" duration="614000" />
+      <workItem from="1562136315644" duration="1367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3870000" />
+    <option name="totallyTimeSpent" value="4623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="270" width="1849" height="747" extended-state="0" />
@@ -177,7 +170,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5047022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50323623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -211,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding>
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
@@ -223,14 +216,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/SharedResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
+            <element signature="e#129#130#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
           </folding>
         </state>
       </provider>
