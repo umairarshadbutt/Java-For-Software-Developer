@@ -3,6 +3,7 @@ package com.example.awtSample;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Main {
 
@@ -34,6 +35,13 @@ public class Main {
                 .filter(s->s.startsWith("G"))
                 .sorted()
                 .forEach(System.out::println);
+
+        Stream<String> ioNumberStream = Stream.of("I26","I17","I29","071");
+        Stream<String> inNumberStream = Stream.of("N40", "N36", "I26","I17", "I29","071");
+        Stream<String> concatStream = Stream.concat(ioNumberStream,inNumberStream);
+
+        System.out.println("--------------------------");
+        System.out.println(concatStream.distinct().peek(System.out::println).count());
 
     }
 }
