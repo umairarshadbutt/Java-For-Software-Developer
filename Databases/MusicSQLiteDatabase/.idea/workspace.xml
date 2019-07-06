@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd51446-d2e0-4c61-bbac-9d27884aad02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/model/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/model/DataSource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" afterDir="false" />
     </list>
@@ -17,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="386">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+            <state relative-caret-position="198">
+              <caret line="73" column="30" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/Album.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="e#151#152#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -84,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/Song.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding>
                 <element signature="e#175#176#0" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
@@ -133,9 +136,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="480" />
+    <option name="y" value="239" />
     <option name="width" value="1849" />
-    <option name="height" value="597" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -229,15 +232,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562413813034</updated>
-      <workItem from="1562413816628" duration="8839000" />
+      <workItem from="1562413816628" duration="10144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8839000" />
+    <option name="totallyTimeSpent" value="10144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="480" width="1849" height="597" extended-state="0" />
+    <frame x="71" y="239" width="1849" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -248,12 +251,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.2542735" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.042313118" />
+      <window_info anchor="bottom" id="Terminal" weight="0.0795756" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.08547009" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5619658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/Album.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -295,7 +298,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/Song.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding>
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
@@ -336,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        <state relative-caret-position="198">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -346,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="386">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
