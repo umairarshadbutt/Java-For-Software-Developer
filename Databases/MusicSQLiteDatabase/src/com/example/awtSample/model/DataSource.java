@@ -1,8 +1,8 @@
 package com.example.awtSample.model;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class DataSource {
     public static final String DB_NAME = "music.db";
@@ -43,6 +43,26 @@ public class DataSource {
             }
         }catch(SQLException e){
             System.out.println("Couldn't close connection: " + e.getMessage());
+        }
+    }
+
+
+    public List<Artist> queryArtist(){
+
+        try (Statement statement =conn.createStatement();
+             ResultSet results =statement.executeQuery("SELECT * FROM "+TABLE_ARTISTS);){
+
+            List<Artist> artists= new ArrayList<>();
+            while (results.next()){
+                Artist artist=new Artist();
+                artist.setId(results.getInt(COLUMN_ARTIST_ID));
+                artist.setName(results.getString(COLUMN_ARTIST_NAME));
+                artists.add(artist);
+            }
+            return artists;
+        } catch (SQLException e){
+            System.out.println("Query failed: "+ e.getMessage());
+            return null;
         }
     }
 

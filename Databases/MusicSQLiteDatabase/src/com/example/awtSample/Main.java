@@ -1,6 +1,9 @@
 package com.example.awtSample;
 
+import com.example.awtSample.model.Artist;
 import com.example.awtSample.model.DataSource;
+
+import java.util.List;
 
 public class Main {
 
@@ -9,6 +12,16 @@ public class Main {
         if(!datasource.open()) {
             System.out.println("Can't open datasource");
             return;
+        }
+
+        List<Artist> artists=datasource.queryArtist();
+        if(artists == null){
+            System.out.println("No artist!");
+            return;
+        }
+
+        for(Artist artist: artists){
+            System.out.println("ID = "+ artist.getId()+ ", Name = "+ artist.getName());
         }
 
         datasource.close();
