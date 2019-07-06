@@ -10,18 +10,21 @@ public class Main {
             //conn.setAutoCommit(false);
             Statement statement = conn.createStatement();
             statement.execute("CREATE TABLE IF NOT EXISTS contacts"+" (name TEXT, phone INTEGER, email TEXT)" );
-           // statement.execute("INSERT INTO contacts (name, phone, email)" + "VALUES('Qasim', 45565767,'qasim@email.com')");
+//           statement.execute("INSERT INTO contacts (name, phone, email)" + "VALUES('Qasim', 45565767,'qasim@email.com')");
+//            statement.execute("INSERT INTO contacts (name, phone, email)" + "VALUES('Umair', 4546854,'umair@email.com')");
+//            statement.execute("INSERT INTO contacts (name, phone, email)" + "VALUES('Yazeed', 315468,'yazeed@email.com')");
+//            statement.execute("INSERT INTO contacts (name, phone, email)" + "VALUES('Ahmad', 2115454,'Ahmad@email.com')");
+           // statement.execute("UPDATE contacts SET phone=12323 WHERE name='Tim'");
 
-            statement.execute("UPDATE contacts SET phone=123233 WHERE name='Tim'");
 
-
-//            statement.execute("SELECT * FROM contacts");
-//            ResultSet results = statement.getResultSet();
-//            while(results.next()) {
-//                System.out.println(results.getString("name") + " " +
-//                        results.getInt("phone") + " " +
-//                        results.getString("email"));
-//            }
+            statement.execute("DELETE FROM contacts WHERE name='Umair'");
+            statement.execute("SELECT * FROM contacts");
+            ResultSet results = statement.getResultSet();
+            while(results.next()) {
+                System.out.println(results.getString("name") + " " +
+                        results.getInt("phone") + " " +
+                        results.getString("email"));
+            }
 
 
             statement.close();
