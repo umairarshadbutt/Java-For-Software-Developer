@@ -15,18 +15,18 @@ public class Main {
             return;
         }
 
-        List<Artist> artists=datasource.queryArtists(5);
-        if(artists == null){
-            System.out.println("No artist!");
+        List<Artist> artists = datasource.queryArtists(5);
+        if(artists == null) {
+            System.out.println("No artists!");
             return;
         }
 
-        for(Artist artist: artists){
-            System.out.println("ID = "+ artist.getId()+ ", Name = "+ artist.getName());
+        for(Artist artist : artists) {
+            System.out.println("ID = " + artist.getId() + ", Name = " + artist.getName());
         }
 
         List<String> albumsForArtist =
-                datasource.queryAlbumsForArtist("Pink Floyed", DataSource.ORDER_BY_DESC);
+                datasource.queryAlbumsForArtist("Carole King", DataSource.ORDER_BY_ASC);
 
         for(String album : albumsForArtist) {
             System.out.println(album);
@@ -44,12 +44,29 @@ public class Main {
                     " Track = " + artist.getTrack());
         }
 
-
         datasource.querySongsMetadata();
-        int count= datasource.getCount(DataSource.TABLE_SONGS);
-        System.out.println("NUmber of songs is: "+ count);
+
+        int count = datasource.getCount(DataSource.TABLE_SONGS);
+        System.out.println("Number of songs is: " + count);
+
         datasource.createViewForSongArtists();
+
+        songArtists = datasource.querySongInfoView("She's On Fire");
+        if(songArtists.isEmpty()) {
+            System.out.println("Couldn't find the artist for the song");
+            return;
+        }
+
+        for(SongArtist artist : songArtists) {
+            System.out.println("FROM VIEW - Artist name = " + artist.getArtistName() +
+                    " Album name = " + artist.getAlbumName() +
+                    " Track number = " + artist.getTrack());
+        }
 
         datasource.close();
     }
 }
+
+
+
+

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd51446-d2e0-4c61-bbac-9d27884aad02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" afterDir="false" />
@@ -15,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="119">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+            <state relative-caret-position="325">
+              <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,6 +135,8 @@
     <findStrings>
       <find>querya</find>
       <find>QUER_ARTIST_FOR_SONG_START</find>
+      <find>songArtists</find>
+      <find>querySongInfoView</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,9 +157,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="517" />
+    <option name="y" value="332" />
     <option name="width" value="1849" />
-    <option name="height" value="555" />
+    <option name="height" value="748" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +207,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -251,15 +254,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562413813034</updated>
       <workItem from="1562413816628" duration="14793000" />
-      <workItem from="1562569532828" duration="4673000" />
+      <workItem from="1562569532828" duration="7286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19466000" />
+    <option name="totallyTimeSpent" value="22079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="517" width="1849" height="555" extended-state="0" />
+    <frame x="71" y="332" width="1849" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235718" />
@@ -269,17 +272,17 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29342723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33117932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.70422536" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.67238915" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.042313118" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.07042254" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -367,20 +370,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="325">
+          <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+        <state relative-caret-position="119">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
