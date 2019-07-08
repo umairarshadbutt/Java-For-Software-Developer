@@ -146,27 +146,27 @@ public class DataSource {
         }
     }
 
-    public List<SongArtist> queryArtistsForSong (String songName, int sortOrder){
-        StringBuilder sb= new StringBuilder(QUER_ARTIST_FOR_SONG_START);
+    public List<SongArtist> queryArtistsForSong(String songName, int sortOrder) {
+        StringBuilder sb = new StringBuilder(QUER_ARTIST_FOR_SONG_START);
         sb.append(songName);
         sb.append("\"");
 
-        if (sortOrder != ORDER_BY_NONE){
+        if (sortOrder != ORDER_BY_NONE) {
             sb.append(QUERY_ALBUMS_BY_ARTIST_SORT);
-            if (sortOrder == ORDER_BY_ASC){
+            if (sortOrder == ORDER_BY_ASC) {
                 sb.append("DESC");
             } else {
                 sb.append("ASC");
             }
         }
 
-        System.out.println("SQL Statement: "+ sb.toString());
+        System.out.println("SQL Statement: " + sb.toString());
         try (Statement statement = conn.createStatement();
              ResultSet results = statement.executeQuery(sb.toString())) {
 
             List<SongArtist> songArtists = new ArrayList<>();
 
-            while(results.next()) {
+            while (results.next()) {
                 SongArtist songArtist = new SongArtist();
                 songArtist.setArtistName(results.getString(1));
                 songArtist.setAlbumName(results.getString(2));
@@ -175,7 +175,7 @@ public class DataSource {
             }
 
             return songArtists;
-        } catch(SQLException e) {
+        } catch (SQLException e) {
             System.out.println("Query failed: " + e.getMessage());
             return null;
         }
@@ -189,12 +189,25 @@ public class DataSource {
 
             ResultSetMetaData meta = results.getMetaData();
             int numColumns = meta.getColumnCount();
-            for(int i=1; i<= numColumns; i++) {
+            for (int i = 1; i <= numColumns; i++) {
                 System.out.format("Column %d in the songs table is names %s\n",
                         i, meta.getColumnName(i));
             }
-        } catch(SQLException e) {
+        } catch (SQLException e) {
             System.out.println("Query failed: " + e.getMessage());
+        }
+    }
+
+    public int getCount(String table) {
+        String sql = "SELECT COUNT(*) FROM " + table;
+        try (Statement statement = conn.createStatement();
+             ResultSet results = statement.executeQuery(sql)) {
+
+            int count = results.getInt(1);
+            return count;
+        } catch (SQLException e) {
+            System.out.println("Query failed: " + e.getMessage());
+            return -1;
         }
     }
 
