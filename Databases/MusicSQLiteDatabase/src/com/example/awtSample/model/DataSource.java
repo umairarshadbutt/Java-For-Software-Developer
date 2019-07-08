@@ -199,12 +199,12 @@ public class DataSource {
     }
 
     public int getCount(String table) {
-        String sql = "SELECT COUNT(*), MIN(_id) FROM " + table;
+        String sql = "SELECT COUNT(*) AS count, MIN(_id) AS min FROM " + table;
         try (Statement statement = conn.createStatement();
              ResultSet results = statement.executeQuery(sql)) {
 
-            int count = results.getInt(1);
-            int min= results.getInt(2);
+            int count = results.getInt("count");
+            int min= results.getInt("min");
 
             System.out.format("Coint = %d, Min = %d\n",count,min);
             return count;
