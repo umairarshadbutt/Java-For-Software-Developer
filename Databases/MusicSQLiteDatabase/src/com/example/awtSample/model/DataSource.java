@@ -199,11 +199,14 @@ public class DataSource {
     }
 
     public int getCount(String table) {
-        String sql = "SELECT COUNT(*) FROM " + table;
+        String sql = "SELECT COUNT(*), MIN(_id) FROM " + table;
         try (Statement statement = conn.createStatement();
              ResultSet results = statement.executeQuery(sql)) {
 
             int count = results.getInt(1);
+            int min= results.getInt(2);
+
+            System.out.format("Coint = %d, Min = %d\n",count,min);
             return count;
         } catch (SQLException e) {
             System.out.println("Query failed: " + e.getMessage());
