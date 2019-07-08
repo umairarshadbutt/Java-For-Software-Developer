@@ -5,7 +5,6 @@ import com.example.awtSample.model.DataSource;
 import com.example.awtSample.model.SongArtist;
 
 import java.util.List;
-import java.util.Scanner;
 
 public class Main {
 
@@ -52,11 +51,7 @@ public class Main {
 
         datasource.createViewForSongArtists();
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a song title: ");
-        String title = scanner.nextLine();
-
-        songArtists = datasource.querySongInfoView(title);
+        songArtists = datasource.querySongInfoView("She's On Fire");
         if(songArtists.isEmpty()) {
             System.out.println("Couldn't find the artist for the song");
             return;
