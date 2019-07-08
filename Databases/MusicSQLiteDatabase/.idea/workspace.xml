@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd51446-d2e0-4c61-bbac-9d27884aad02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/model/SongArtist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/model/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/model/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicSQLiteDatabase/com/example/awtSample/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" afterDir="false" />
     </list>
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,10 +30,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/SongArtist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="73" column="30" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
+            <state relative-caret-position="386">
+              <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,6 +142,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>querya</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -129,16 +157,17 @@
         <option value="$PROJECT_DIR$/src/com/example/awtSample/model/Album.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/model/Song.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/model/Artist.java" />
-        <option value="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/model/SongArtist.java" />
         <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="239" />
+    <option name="y" value="346" />
     <option name="width" value="1849" />
-    <option name="height" value="838" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,16 +261,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562413813034</updated>
-      <workItem from="1562413816628" duration="10144000" />
+      <workItem from="1562413816628" duration="14793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10144000" />
+    <option name="totallyTimeSpent" value="14793000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="239" width="1849" height="838" extended-state="0" />
-    <editor active="true" />
+    <frame x="71" y="346" width="1849" height="731" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -251,12 +279,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.042313118" />
-      <window_info anchor="bottom" id="Terminal" weight="0.0795756" />
+      <window_info anchor="bottom" id="Messages" weight="0.042313118" />
+      <window_info anchor="bottom" id="Terminal" weight="0.4465291" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5619658" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21096346" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,18 +367,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/DataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="73" column="30" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
+        <state relative-caret-position="386">
+          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/model/SongArtist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
