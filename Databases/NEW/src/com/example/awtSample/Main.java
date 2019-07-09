@@ -51,28 +51,17 @@ public class Main {
 
         datasource.createViewForSongArtists();
 
-        count = datasource.getCount(DataSource.TABLE_SONGS);
-        System.out.println("Number of songs is: " + count);
+        songArtists = datasource.querySongInfoView("She's On Fire");
+        if(songArtists.isEmpty()) {
+            System.out.println("Couldn't find the artist for the song");
+            return;
+        }
 
-        datasource.createViewForSongArtists();
-
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.println("Enter a song title: ");
-//        String title = scanner.nextLine();
-
-//        songArtists = datasource.querySongInfoView(title);
-//        if(songArtists.isEmpty()) {
-//            System.out.println("Couldn't find the artist for the song");
-//            return;
-//        }
-//
-//        for(SongArtist artist : songArtists) {
-//            System.out.println("FROM VIEW - Artist name = " + artist.getArtistName() +
-//                " Album name = " + artist.getAlbumName() +
-//                " Track number = " + artist.getTrack());
-//        }
-
-        datasource.insertSong("Bird Dog", "Everly Brothers", "All-Time Greatest Hits", 7);
+        for(SongArtist artist : songArtists) {
+            System.out.println("FROM VIEW - Artist name = " + artist.getArtistName() +
+                    " Album name = " + artist.getAlbumName() +
+                    " Track number = " + artist.getTrack());
+        }
 
         datasource.close();
     }
